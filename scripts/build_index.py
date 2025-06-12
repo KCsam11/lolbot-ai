@@ -14,8 +14,18 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 def load_texts():
     texts = []
 
-    # Charger champions_summary_fr_FR.json
+    # Charger champions
     with open("data/champions_formatted.txt", "r", encoding="utf-8") as f:
         texts += [chunk.strip() for chunk in f.read().split("\n\n") if chunk.strip()]
 
+    #charger champions details
+    with open("data/detail_champions_formatted.txt", "r", encoding="utf-8") as f:
+        texts += [chunk.strip() for chunk in f.read().split("\n\n") if chunk.strip()]
+
+    # Charger items
+    with open("data/items_formatted.txt", "r", encoding="utf-8") as f:
+        texts += [chunk.strip() for chunk in f.read().split("\n\n") if chunk.strip()]
+
+    print(f"Total texts loaded: {len(texts)}")
     return texts
+
