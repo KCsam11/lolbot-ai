@@ -52,7 +52,45 @@ def format_detail_champion(champion_data: dict) -> dict:
             'name': 'N/A',
             'description': 'Passif non disponible.'
         }
-    return formatted_champion
+
+    # Préparation des chaînes pour la f-string finale
+    name_str = formatted_champion['name']
+    title_str = formatted_champion['title']
+    lore_str = formatted_champion['lore']
+    
+    skins_items_str = "\n".join([f"    - {skin_name}" for skin_name in formatted_champion['skins']])
+    allytips_items_str = "\n".join([f"    - {tip}" for tip in formatted_champion['allytips']])
+    enemytips_items_str = "\n".join([f"    - {tip}" for tip in formatted_champion['enemytips']])
+
+    # Formatage des Compétences (Spells)
+    if formatted_champion['spells']:
+        spells_items_str = "\n".join([f"    - {s['name']}: {s['description']}" for s in formatted_champion['spells']])
+    else:
+        spells_items_str = "    - Aucune compétence disponible."
+
+    passive_item_str = f"    - {formatted_champion['passive']['name']}: {formatted_champion['passive']['description']}"
+
+    return f"""{name_str} — {title_str}
+
+Lore:
+{lore_str}
+
+Skins:
+{skins_items_str}
+
+Alliés:
+{allytips_items_str}
+
+Ennemis:
+{enemytips_items_str}
+
+Compétences:
+{spells_items_str}
+
+Passif:
+{passive_item_str}
+""".strip()
+
 
 def parse_detail_champion(directory_path: str) -> list[dict]:
     all_formatted_champions = []
@@ -82,11 +120,4 @@ if __name__ == "__main__":
             f.write("No champion data found or processed.\n") 
         else:
             for champ_data in all_champions_data: # champ_data is a dictionary
-                # Example: Write name and title. Adjust the output format as needed.
-                f.write(f"Name: {champ_data.get('name', 'N/A')}\n")
-                f.write(f"Title: {champ_data.get('title', 'N/A')}\n")
-                f.write(f"Passive: {champ_data.get('passive', {}).get('name', 'N/A')}\n")
-                f.write("Spells:\n")
-                for spell in champ_data.get('spells', []):
-                    f.write(f"  - {spell.get('name', 'N/A')}\n")
-                f.write("\n---\n\n") # Separator for readability
+                f.write(champ_data + "\n\n") # Separator for readability
