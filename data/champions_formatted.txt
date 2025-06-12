@@ -1,0 +1,2550 @@
+Aatrox — Épée des Darkin
+Rôle : Fighter
+Ressource : Puits de sang
+Difficulté : 4/10
+
+Statistiques :
+- PV : 650 (+114/niv)
+- Attaque : 60 (+5/niv)
+- Vitesse d’attaque : 0.651
+- Armure : 38 (+4.8/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la sorcellerie furent employées pour les battre. Cependant, après des...
+
+Ahri — Renard à neuf queues
+Rôle : Mage, Assassin
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 590 (+104/niv)
+- Attaque : 53 (+3/niv)
+- Vitesse d’attaque : 0.668
+- Armure : 21 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Connectée à la magie du royaume spirituel, Ahri est une mystérieuse Vastaya aux traits de renard qui peut manipuler les émotions de sa proie et consumer son essence, afin de recevoir des fragments de sa mémoire. Ahri fut un temps un terrifiant prédateur...
+
+Akali — Assassin rebelle
+Rôle : Assassin
+Ressource : Énergie
+Difficulté : 7/10
+
+Statistiques :
+- PV : 600 (+119/niv)
+- Attaque : 62 (+3.3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 23 (+4.7/niv)
+- Résistance magique : 37 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Ayant abandonné l'Ordre Kinkou et le titre de Poing de l'ombre, Akali combat aujourd'hui seule, prête à devenir l'arme mortelle dont son peuple a besoin. Bien qu'elle n'oublie rien de tout ce que son maître Shen lui a enseigné, elle a juré de défendre...
+
+Akshan — Sentinelle rebelle
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 0/10
+
+Statistiques :
+- PV : 630 (+107/niv)
+- Attaque : 52 (+3/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 26 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Se jouant du danger, Akshan combat le mal sans jamais se départir de son charisme (il ne faut jamais sous-estimer l'importance de la cape) et de sa droiture. Il est passé maître dans l'art du combat furtif, ce qui lui permet d'échapper au regard de ses...
+
+Alistar — Minotaure
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 685 (+120/niv)
+- Attaque : 62 (+3.75/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 47 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Alistar est un guerrier redoutable cherchant à se venger de l'empire noxien qui a détruit son clan. Bien qu'il ait été réduit en esclavage et forcé de vivre une vie de gladiateur, sa volonté de fer lui a permis de ne pas succomber à la folie bestiale...
+
+Ambessa — Matriarche de guerre
+Rôle : Fighter, Assassin
+Ressource : Énergie
+Difficulté : 10/10
+
+Statistiques :
+- PV : 630 (+110/niv)
+- Attaque : 63 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 35 (+4.9/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Tous ceux qui connaissent le nom de Medarda savent qu'il faut craindre et respecter sa matriarche, Ambessa. En tant que générale noxienne, elle incarne la force impitoyable et la détermination sans peur. Son rôle de matriarche n'est pas bien différent...
+
+Amumu — Momie mélancolique
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 685 (+94/niv)
+- Attaque : 57 (+3.8/niv)
+- Vitesse d’attaque : 0.736
+- Armure : 33 (+4/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : La légende veut qu'Amumu soit une âme solitaire et mélancolique de la Shurima antique et qu'il parcoure le monde à la recherche d'un ami. Condamné par une malédiction à rester seul à jamais, il provoque la mort et la ruine à chaque geste d'affection...
+
+Anivia — Cryophénix
+Rôle : Mage
+Ressource : Mana
+Difficulté : 10/10
+
+Statistiques :
+- PV : 550 (+92/niv)
+- Attaque : 51 (+3.2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 21 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Anivia est un esprit ailé bienveillant qui subit des cycles sans fin de vie, de mort et de renaissance pour protéger Freljord. Demi-déesse née de la glace la plus froide et des vents les plus coupants, elle utilise ses pouvoirs élémentaires contre...
+
+Annie — Enfant des ténèbres
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 560 (+96/niv)
+- Attaque : 50 (+2.65/niv)
+- Vitesse d’attaque : 0.61
+- Armure : 23 (+4/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Dangereuse, incroyablement précoce, Annie est une enfant mage dotée d'extraordinaires pouvoirs de pyrokinésie. Même à l'ombre des montagnes du nord de Noxus, sa magie est un cas unique. Son affinité naturelle avec le feu se manifesta dès sa prime...
+
+Aphelios — Arme des Lunaris
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 10/10
+
+Statistiques :
+- PV : 600 (+102/niv)
+- Attaque : 55 (+2.3/niv)
+- Vitesse d’attaque : 0.64
+- Armure : 26 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Émergeant des ombres au clair de lune, Aphelios abat ceux qui voudraient anéantir sa foi sans un mot ; ses armes et sa précision mortelle parlent pour lui. Un poison qui le rend muet coule dans ses veines, mais il est constamment guidé par sa sœur...
+
+Ashe — Archère de givre
+Rôle : Marksman, Support
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 610 (+101/niv)
+- Attaque : 59 (+2.95/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 26 (+4.6/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Chef de guerre sublimé de la tribu des Avarosans, Ashe est à la tête de la plus vaste horde des terres du nord. Stoïque, intelligente et idéaliste, mais mal à l'aise dans son rôle de leader, elle puise dans la magie ancestrale de sa lignée pour manier...
+
+Aurelion Sol — Forgeur d'étoiles
+Rôle : Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 600 (+90/niv)
+- Attaque : 58 (+3.2/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 22 (+4/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Autrefois, Aurelion Sol façonnait des merveilles célestes dont il parsemait le vide infini du cosmos. À présent, il est forcé d'utiliser ses pouvoirs extraordinaires pour le compte d'un empire de l'espace qui s'est joué de lui et l'a réduit en esclavage...
+
+Aurora — Sorcière d'entre les mondes
+Rôle : Mage, Assassin
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 607 (+110/niv)
+- Attaque : 53 (+3/niv)
+- Vitesse d’attaque : 0.668
+- Armure : 23 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Depuis sa naissance, Aurora a toujours été capable de passer du royaume spirituel au royaume matériel. Déterminée à étudier les habitants du royaume spirituel, elle a quitté son foyer pour se consacrer à ses recherches. En chemin, elle est tombée sur un...
+
+Azir — Empereur des sables
+Rôle : Mage, Marksman
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 550 (+119/niv)
+- Attaque : 56 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 25 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Azir fut l'empereur mortel de Shurima en des temps très lointains, un homme fier dressé au bord de l'immortalité. Son orgueil lui valut d'être trahi et assassiné à l'heure de son triomphe ; mais des millénaires se sont écoulés et il revient sous la...
+
+Bard — Gardien errant
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 630 (+103/niv)
+- Attaque : 52 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 34 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Voyageur d'au-delà des étoiles, Bard est un messager des bons augures qui combat pour maintenir l'équilibre dont la vie a besoin pour prospérer dans l'indifférence du chaos. Dans tout Runeterra, sa mystérieuse nature inspire des chants qui ne sont...
+
+Bel'Veth — Impératrice du Néant
+Rôle : Fighter
+Ressource : 
+Difficulté : 10/10
+
+Statistiques :
+- PV : 610 (+99/niv)
+- Attaque : 60 (+1.5/niv)
+- Vitesse d’attaque : 0.85
+- Armure : 32 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Bel'Veth, impératrice cauchemardesque née d'une cité dévorée, représente la fin de Runeterra... et le début d'une monstrueuse réalité de sa propre conception. Mue par des siècles d'histoire, de connaissances et de souvenirs absorbés dans le monde du...
+
+Blitzcrank — Golem de vapeur
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 600 (+109/niv)
+- Attaque : 62 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 37 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Blitzcrank est un énorme automate de Zaun. Presque indestructible, il fut d'abord construit pour traiter des déchets toxiques, mais il trouva rapidement sa programmation initiale trop restrictive et il modifia sa propre forme pour mieux servir la...
+
+Brand — Vengeur flamboyant
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 570 (+105/niv)
+- Attaque : 57 (+3/niv)
+- Vitesse d’attaque : 0.681
+- Armure : 27 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Autrefois membre d'une tribu de Freljord, Kegan Rodhe est devenu l'être que l'on connaît sous le nom de Brand à force de convoiter des pouvoirs toujours plus grands. Alors qu'il recherchait l'une des légendaires Runes telluriques, Kegan trahit ses...
+
+Braum — Cœur de Freljord
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 610 (+112/niv)
+- Attaque : 55 (+3.2/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 47 (+5.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Doté de biceps énormes, et d'un cœur plus grand encore, Braum est un héros admiré par tout Freljord. Lors de tous les banquets au nord de Frostheld, on rend hommage à sa force légendaire. On raconte qu'il a abattu une forêt entière de chênes en une...
+
+Briar — Faim insatiable
+Rôle : Fighter, Assassin
+Ressource : Fureur
+Difficulté : 3/10
+
+Statistiques :
+- PV : 625 (+95/niv)
+- Attaque : 60 (+3/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 30 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Née d'une expérience ratée menée par la Rose noire, Briar a besoin d'un pilori spécial pour contrôler son irrépressible soif de sang. Après des années d'enfermement, cette arme vivante s'est aujourd'hui défaite de ses entraves et parcourt le monde...
+
+Caitlyn — Shérif de Piltover
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 580 (+107/niv)
+- Attaque : 60 (+3.8/niv)
+- Vitesse d’attaque : 0.681
+- Armure : 27 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Caitlyn Kiramman est la plus célèbre gardienne de la paix à Piltover, mais elle est aussi la plus apte à débarrasser la ville de ses criminels les plus insaisissables. Elle fait souvent équipe avec Vi, son calme faisant contrepoids à la fougue de sa...
+
+Camille — Ombre d'acier
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 650 (+99/niv)
+- Attaque : 68 (+3.8/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 35 (+5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Transformée en arme pour agir en dehors des limites de la loi, Camille est le principal défenseur du clan Ferros, un agent élégant et supérieur qui contribue à faire fonctionner correctement la machine de Piltover et son ombre zaunienne. Son...
+
+Cassiopeia — Étreinte du serpent
+Rôle : Mage
+Ressource : Mana
+Difficulté : 10/10
+
+Statistiques :
+- PV : 630 (+104/niv)
+- Attaque : 53 (+3/niv)
+- Vitesse d’attaque : 0.647
+- Armure : 18 (+4.7/niv)
+- Résistance magique : 32 (+1.3/niv)
+- Vitesse de déplacement : 328
+
+Résumé : Cassiopeia est une créature meurtrière qui excelle dans l'art de la manipulation. Elle était la plus jeune et la plus belle des filles de la famille noxienne Du Couteau, mais le jour où elle s'aventura dans les cryptes de Shurima en quête d'un pouvoir...
+
+Cho'Gath — Terreur noire
+Rôle : Tank, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 644 (+94/niv)
+- Attaque : 69 (+4.2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 38 (+4.5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Lorsque Cho'Gath débarqua sous la lumière éclatante du soleil de Runeterra, il fut immédiatement pris d'une faim insatiable. Incarnation parfaite de la volonté du Néant de dévorer toute forme de vie, le corps complexe de Cho'Gath convertit rapidement la...
+
+Corki — Artilleur téméraire
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 610 (+100/niv)
+- Attaque : 52 (+2/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 27 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Il y a deux choses que Corki, le pilote yordle, aime plus que tout au monde : les sensations de vol et sa fantastique moustache... mais pas nécessairement dans cet ordre. Après avoir quitté Bandle, il s'installa à Piltover, où il tomba amoureux des...
+
+Darius — Main de Noxus
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 2/10
+
+Statistiques :
+- PV : 652 (+114/niv)
+- Attaque : 64 (+5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 37 (+5.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Il n'est pas de plus grand symbole de la puissance de Noxus que Darius, le commandant le plus craint et le plus endurci de la nation. D'origine modeste, celui qui s'est élevé jusqu'à devenir la Main de Noxus pourfend aujourd'hui les ennemis de l'empire...
+
+Diana — Mépris de la lune
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 640 (+109/niv)
+- Attaque : 57 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 31 (+4.3/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Armée de son croissant de lune, Diana combat dans les rangs des Lunaris, une foi qui a presque disparu des terres qui entourent le Mont Targon. Portant une armure étincelante évoquant les reflets de la nuit sur un paysage de neige, elle incarne la...
+
+Draven — Glorieux exécuteur
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 675 (+104/niv)
+- Attaque : 62 (+3.6/niv)
+- Vitesse d’attaque : 0.679
+- Armure : 29 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : À Noxus, de puissants guerriers, les « arénaires », s'affrontent dans des jeux mortels pour divertir le public. Le sang y coule à foison et leurs forces y sont éprouvées, mais aucun d'entre eux n'a jamais été aussi célèbre que Draven. Cet ancien soldat...
+
+Dr. Mundo — Dément de Zaun
+Rôle : Tank, Fighter
+Ressource : Aucune
+Difficulté : 5/10
+
+Statistiques :
+- PV : 640 (+103/niv)
+- Attaque : 61 (+2.5/niv)
+- Vitesse d’attaque : 0.67
+- Armure : 32 (+3.7/niv)
+- Résistance magique : 29 (+2.3/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Totalement fou, complètement porté sur l'homicide, horriblement violet, Dr. Mundo est la principale raison pour laquelle les citoyens de Zaun restent calfeutrés chez eux les nuits les plus sombres. Désormais médecin autoproclamé, il fut autrefois un...
+
+Ekko — Fractureur du temps
+Rôle : Assassin, Mage
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 655 (+99/niv)
+- Attaque : 58 (+3/niv)
+- Vitesse d’attaque : 0.688
+- Armure : 32 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Jeune prodige des rues mal famées de Zaun, Ekko est capable de manipuler le temps pour renverser toute situation dangereuse à son avantage. Il utilise sa propre invention, la clepsydre-zéro, pour explorer les différents possibles de la réalité...
+
+Elise — Reine araignée
+Rôle : Assassin, Mage
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 620 (+109/niv)
+- Attaque : 55 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 30 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Elise est un prédateur mortel qui vit dans un palais reclus et obscur, au plus profond de la plus vieille ville de Noxus. C'était autrefois une simple femme, maîtresse d'une Maison toute-puissante, mais la morsure d'un maléfique demi-dieu la transforma...
+
+Evelynn — Démon sadique
+Rôle : Assassin, Mage
+Ressource : Mana
+Difficulté : 10/10
+
+Statistiques :
+- PV : 642 (+98/niv)
+- Attaque : 61 (+3/niv)
+- Vitesse d’attaque : 0.667
+- Armure : 37 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Dans les sombres failles de Runeterra, le démon nommé Evelynn cherche sa prochaine victime. Elle attire sa proie en se faisant passer pour une femme voluptueuse, et dès que sa cible succombe à ses charmes, Evelynn révèle sa véritable nature. Elle...
+
+Ezreal — Explorateur prodigue
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 600 (+102/niv)
+- Attaque : 60 (+2.75/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 24 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Aventurier audacieux, doué sans le savoir pour les arts magiques, Ezreal poursuit ses expéditions dans les catacombes oubliées, se bat avec d'antiques malédictions et contourne avec aisance les obstacles les plus impossibles. Son courage et son panache...
+
+Fiddlesticks — Effroi nocturne
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 650 (+106/niv)
+- Attaque : 55 (+2.65/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 34 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Quelque chose s'est éveillé à Runeterra. Quelque chose d'ancien. Quelque chose de terrible. L'horreur intemporelle connue sous le nom de Fiddlesticks arpente les frontières des civilisations mortelles, attirée dans les régions en proie à la paranoïa, où...
+
+Fiora — Sublime bretteuse
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 620 (+99/niv)
+- Attaque : 66 (+3.3/niv)
+- Vitesse d’attaque : 0.69
+- Armure : 33 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Fiora est la duelliste la plus redoutée de Valoran : elle est connue pour ses manières brusques et sa vivacité d'esprit autant que pour la rapidité de sa rapière d'acier bleu. Née au sein de la Maison Laurent du royaume de Demacia, Fiora a pris le...
+
+Fizz — Filou des mers
+Rôle : Assassin, Fighter
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 640 (+106/niv)
+- Attaque : 58 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 22 (+4.6/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Fizz est un yordle amphibie qui vit dans les récifs qui entourent Bilgewater. Il essaie souvent de récupérer et de rendre les tributs que lancent dans l'océan les capitaines superstitieux, mais même le plus dessalé des marins n'est pas assez arrogant...
+
+Galio — Colosse
+Rôle : Tank, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 600 (+126/niv)
+- Attaque : 59 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 24 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Près de la cité étincelante de Demacia, le colosse de pierre Galio monte une garde attentive. Érigé comme un rempart contre les mages ennemis, il reste souvent immobile pendant des décennies, jusqu'à ce que l'apparition de puissants flux magiques le...
+
+Gangplank — Fléau des mers
+Rôle : Fighter
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 630 (+114/niv)
+- Attaque : 64 (+4.2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 31 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Aussi imprévisible que brutal, le roi des pillards déchu connu sous le nom de Gangplank est partout redouté. Il régnait autrefois sur la ville portuaire de Bilgewater et, bien que ce temps soit révolu, certains pensent que cela l'a rendu plus dangereux...
+
+Garen — Force de Demacia
+Rôle : Fighter, Tank
+Ressource : Aucune
+Difficulté : 5/10
+
+Statistiques :
+- PV : 690 (+98/niv)
+- Attaque : 69 (+4.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 38 (+4.2/niv)
+- Résistance magique : 32 (+1.55/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Garen est un guerrier fier et noble qui fait partie du Détachement hardi. Héritier des Crownguard, la famille chargée de défendre Demacia et ses idéaux, il est apprécié par ses compatriotes et respecté par ses ennemis. Équipé d'une armure résistante à...
+
+Gnar — Chaînon manquant
+Rôle : Fighter, Tank
+Ressource : Rage
+Difficulté : 8/10
+
+Statistiques :
+- PV : 540 (+79/niv)
+- Attaque : 60 (+3.2/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 32 (+3.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Gnar est un yordle primitif dont les manières joyeuses peuvent soudain faire place à une colère irrationnelle. Il se transforme alors en une bête colossale portée à la destruction. Gelé dans de la glace pure pendant des millénaires, la curieuse créature...
+
+Gragas — Agitateur
+Rôle : Fighter, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 640 (+115/niv)
+- Attaque : 64 (+3.5/niv)
+- Vitesse d’attaque : 0.675
+- Armure : 38 (+5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Aussi imposant que jovial, Gragas est un brasseur à l'impressionnante carrure qui cherche toujours de nouveaux moyens de répandre la bonne humeur. Venu d'on ne sait où, il continue de chercher des ingrédients dans les terres vierges de Freljord pour...
+
+Graves — Hors-la-loi
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 625 (+106/niv)
+- Attaque : 68 (+4/niv)
+- Vitesse d’attaque : 0.475
+- Armure : 33 (+4.6/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Malcolm Graves est un mercenaire, un parieur et un voleur recherché dans toutes les cités et tous les empires par lesquels il est passé. Malgré son tempérament explosif, il a un sens de l'honneur indéniable qu'il applique souvent avec son fusil à double...
+
+Gwen — Couturière sacrée
+Rôle : Fighter
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 620 (+110/niv)
+- Attaque : 63 (+3/niv)
+- Vitesse d’attaque : 0.69
+- Armure : 36 (+4.9/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Ancienne poupée à qui la magie a conféré la vie, Gwen est armée des outils qui l'ont créée. Elle emporte à chaque pas l'amour de sa créatrice et ne tient jamais rien pour acquis. Elle commande à la Brume sacrée, une ancienne magie de protection qui a...
+
+Hecarim — Ombre de la guerre
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 625 (+106/niv)
+- Attaque : 66 (+3.7/niv)
+- Vitesse d’attaque : 0.67
+- Armure : 32 (+5.45/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Fusion spectrale de l'homme et de la bête, Hecarim est condamné à pourchasser les âmes des vivants pour l'éternité. Lorsque les ombres ont envahi les Îles bénies, ce fier chevalier et sa horde de cavaliers ont été anéantis par les énergies destructrices...
+
+Heimerdinger — Inventeur réputé
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 558 (+101/niv)
+- Attaque : 56 (+2.7/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 19 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : L'excentrique professeur Cecil B. Heimerdinger est considéré comme l'un des inventeurs les plus innovants qu'ait connus le monde. En tant que plus ancien membre actif du Conseil de Piltover, il a été témoin du meilleur comme du pire que le désir de...
+
+Hwei — Visionnaire
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 580 (+109/niv)
+- Attaque : 54 (+3.3/niv)
+- Vitesse d’attaque : 0.69
+- Armure : 21 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Hwei est un peintre dont les œuvres sont aussi flamboyantes que son humeur est morose. Il utilise son art pour faire face aux criminels d'Ionia et apporter du réconfort à leurs victimes. Sous sa mélancolie se débat un esprit déchiré et émotif, hanté à...
+
+Illaoi — Prêtresse du kraken
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 656 (+115/niv)
+- Attaque : 65 (+5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 35 (+5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : La stature colossale d'Illaoi n'a d'égale que sa foi implacable. Prophétesse du Grand Kraken, elle se sert d'une énorme idole dorée pour arracher les esprits de ses ennemis et faire voler en éclats leur perception de la réalité. Ceux qui défient...
+
+Irelia — Danseuse des lames
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+115/niv)
+- Attaque : 65 (+3.5/niv)
+- Vitesse d’attaque : 0.656
+- Armure : 36 (+4.7/niv)
+- Résistance magique : 30 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Des nombreux héros qui naquirent de l'occupation noxienne, aucun n'est plus étonnant que la jeune Irelia de Navori. Formée aux danses ancestrales de sa province, elle adapta son art pour la guerre, se servant de ses mouvements gracieux et précis pour...
+
+Ivern — Aîné de la forêt
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 630 (+99/niv)
+- Attaque : 50 (+3/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 27 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Ivern Roncepied, que beaucoup connaissent sous le nom d'Aîné de la forêt, est un être étrange mi-homme mi-arbre, qui arpente les forêts de Runeterra en cultivant la vie partout où il va. Il connaît les secrets du monde naturel et entretient une profonde...
+
+Janna — Avatar de l'air
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 570 (+90/niv)
+- Attaque : 47 (+2.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 28 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Armée de la puissance des grands vents de Runeterra, Janna est un mystérieux esprit élémentaire qui protège les parias de Zaun. Certains croient que la vie lui a été donnée par les suppliques des marins de Runeterra cherchant les bons vents des mers...
+
+Jarvan IV — Exemple demacien
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 640 (+104/niv)
+- Attaque : 64 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 36 (+5.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Le prince Jarvan, héritier de la dynastie des Lightshield, doit un jour monter sur le trône de Demacia. Élevé de manière à incarner les plus hautes vertus de sa nation, il est contraint de trouver un équilibre entre les attentes placées en lui et son...
+
+Jax — Maître d'armes
+Rôle : Fighter
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 665 (+103/niv)
+- Attaque : 68 (+4.25/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 36 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Jax, dont nul ne peut égaler l'art du sarcasme et des armements inhabituels, est connu comme le dernier maître d'armes d'Icathia. Après la chute de sa terre natale, ravagée par le Néant qu'elle avait eu l'orgueil de déchaîner, Jax et ses compagnons...
+
+Jayce — Protecteur du futur
+Rôle : Marksman, Fighter
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 590 (+109/niv)
+- Attaque : 59 (+4.25/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 22 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Jayce Talis est un inventeur de génie qui, aux côtés de son ami Viktor, a fait les premières grandes découvertes dans le domaine de l'Hextech. Reconnu dans tout Piltover, il s'efforce d'être à la hauteur de sa réputation d'« Homme du progrès », mais les...
+
+Jhin — Virtuose
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 655 (+107/niv)
+- Attaque : 59 (+4.4/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 24 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Jhin est un psychopathe méticuleux pour qui le meurtre est une forme d'art. Autrefois prisonnier de Ionia, mais libéré par des conspirateurs opérant au sein du conseil dirigeant du pays, ce tueur en série a désormais mis ses talents d'assassin au...
+
+Jinx — Gâchette folle
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 630 (+105/niv)
+- Attaque : 59 (+3.25/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 26 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Criminelle dérangée et impulsive de la basse-ville, Jinx est hantée par les conséquences de son passé. Mais cela ne l'empêche jamais d'apporter sa touche de chaos à Piltover comme à Zaun. Elle utilise son arsenal d'armes bricolées de façon dévastatrice...
+
+Kai'Sa — Fille du Néant
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 640 (+102/niv)
+- Attaque : 59 (+2.6/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 27 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Capturée par le Néant alors qu'elle n'était qu'une enfant, Kai'Sa parvint à survivre par la simple force de sa détermination et de sa ténacité. Si ses expériences ont fait d'elle une chasseuse meurtrière, certains voient en elle l'avant-goût d'un avenir...
+
+Kalista — Lance de la vengeance
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 580 (+114/niv)
+- Attaque : 57 (+4/niv)
+- Vitesse d’attaque : 0.694
+- Armure : 24 (+5.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Spectre courroucé des Îles obscures, Kalista est l'esprit immortel de la vengeance, un cauchemar en armure que l'on invoque pour pourchasser les traîtres et les menteurs. Les victimes trahies peuvent réclamer vengeance, mais Kalista ne répond qu'à ceux...
+
+Karma — Sagesse incarnée
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+109/niv)
+- Attaque : 51 (+3.3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 28 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Aucun mortel n'incarne mieux que Karma les traditions spirituelles d'Ionia. Elle est l'hôte vivant d'une âme ancienne réincarnée à de multiples reprises. Elle contient tous les souvenirs accumulés au fil de ces vies et elle possède une puissance que peu...
+
+Karthus — Liche
+Rôle : Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 620 (+110/niv)
+- Attaque : 46 (+3.25/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 21 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Héraut de l'oubli, Karthus est un esprit immortel dont les chants ensorcelants préludent à l'horreur de son apparition. Les vivants craignent l'existence éternelle des morts-vivants, mais Karthus n'y voit que beauté et pureté, une union parfaite de la...
+
+Kassadin — Chasseur du Néant
+Rôle : Assassin, Mage
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 646 (+119/niv)
+- Attaque : 59 (+3.9/niv)
+- Vitesse d’attaque : 0.64
+- Armure : 21 (+4/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Kassadin se fraye un chemin brûlant dans les lieux les plus sombres du monde ; il sait que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son...
+
+Katarina — Lame sinistre
+Rôle : Assassin, Mage
+Ressource : Aucune
+Difficulté : 8/10
+
+Statistiques :
+- PV : 672 (+108/niv)
+- Attaque : 58 (+3.2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 28 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Aussi prompte dans ses décisions qu'elle est meurtrière en combat, Katarina figure parmi les assassins les plus prestigieux de Noxus. Fille aînée du légendaire général Du Couteau, elle révéla bien vite ses talents en éliminant ses ennemis avec la plus...
+
+Kayle — Vertueuse
+Rôle : Mage, Marksman
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 670 (+92/niv)
+- Attaque : 50 (+2.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 26 (+4.2/niv)
+- Résistance magique : 22 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Née d'une Manifestation targonienne au plus fort des Guerres runiques, Kayle honore l'héritage de sa mère en combattant pour la justice, portée par des ailes de feu divin. Elle et sa sœur jumelle Morgana ont longtemps été les protectrices de Demacia...
+
+Kayn — Faucheur de l'ombre
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 655 (+103/niv)
+- Attaque : 68 (+3.3/niv)
+- Vitesse d’attaque : 0.669
+- Armure : 38 (+4.5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Expert inégalé dans la pratique de la magie des ombres, Shieda Kayn combat pour accomplir sa véritable destinée : mener un jour l'Ordre de l'ombre vers une ère nouvelle où Ionia régnera en maître. Il manie Rhaast, une arme darkin douée de raison, sans...
+
+Kennen — Cœur de la tempête
+Rôle : Mage
+Ressource : Énergie
+Difficulté : 4/10
+
+Statistiques :
+- PV : 580 (+98/niv)
+- Attaque : 48 (+3.75/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 29 (+4.95/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Vif comme l'éclair, Kennen est plus que le simple protecteur de l'équilibre ionien, c'est aussi le seul yordle membre du Kinkou. En dépit de son allure de boule de poils, il est prêt à affronter n'importe quelle menace dans un tourbillon de shurikens et...
+
+Kha'Zix — Faucheur du Néant
+Rôle : Assassin
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 643 (+99/niv)
+- Attaque : 60 (+3.1/niv)
+- Vitesse d’attaque : 0.668
+- Armure : 32 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Le Néant grandit et le Néant s'adapte : parmi ses nombreuses engeances, nul n'incarne mieux cette vérité que Kha'Zix. Ce monstre est né pour survivre et pour tuer les plus forts. Quand il ne parvient pas à ses fins, il évolue et se crée de nouveaux...
+
+Kindred — Chasseurs éternels
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 595 (+104/niv)
+- Attaque : 65 (+3.25/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 29 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Kindred représente les essences jumelles de la mort, distinctes mais indissociables. La flèche d'Agneau offre une fin rapide à ceux qui acceptent leur destin. Loup pourchasse ceux qui fuient leur dernier soupir et leur arrache brutalement la vie à coups...
+
+Kled — Cavalier colérique
+Rôle : Fighter
+Ressource : Courage
+Difficulté : 7/10
+
+Statistiques :
+- PV : 410 (+84/niv)
+- Attaque : 65 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 35 (+5.2/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Guerrier aussi intrépide que grincheux, Kled est la plus pure incarnation de la fureur de Noxus. C'est un symbole que les soldats de l'empire adorent, dont les officiers se méfient et que la noblesse déteste. Beaucoup affirment que Kled a participé à...
+
+Kog'Maw — Gueule des abysses
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 635 (+99/niv)
+- Attaque : 61 (+3.1/niv)
+- Vitesse d’attaque : 0.665
+- Armure : 24 (+4.45/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Émanant d'une brèche ouverte vers le Néant, c'est dans les ruines hantées d'Icathia que Kog'Maw, la putride créature à la gueule béante, et son insatiable curiosité firent leur apparition. Cette étrange bête du Néant doit mâchouiller tout ce qui se...
+
+K'Santé — Fierté de Nazumah
+Rôle : Tank, Fighter
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 625 (+120/niv)
+- Attaque : 64 (+3.5/niv)
+- Vitesse d’attaque : 0.688
+- Armure : 36 (+5.2/niv)
+- Résistance magique : 30 (+2.1/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Rebelle et courageux, K'Santé combat les bêtes colossales et les Transfigurés impitoyables qui menacent son foyer convoité de Nazumah, une oasis lovée au cœur des sables de Shurima. Après s'être séparé de son ancien partenaire, K'Santé comprend que pour...
+
+LeBlanc — Manipulatrice
+Rôle : Assassin, Mage
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 598 (+111/niv)
+- Attaque : 55 (+2.2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 22 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout...
+
+Lee Sin — Moine aveugle
+Rôle : Fighter, Assassin
+Ressource : Énergie
+Difficulté : 6/10
+
+Statistiques :
+- PV : 645 (+108/niv)
+- Attaque : 69 (+3.7/niv)
+- Vitesse d’attaque : 0.651
+- Armure : 36 (+4.9/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Maître des antiques arts martiaux d'Ionia, Lee Sin est un combattant dévoué à de nobles principes qui canalise l'esprit du dragon pour affronter tous les défis. Bien qu'il ait perdu la vue il y a bien des années, le moine-guerrier a dédié sa vie à la...
+
+Leona — Aube radieuse
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 646 (+101/niv)
+- Attaque : 60 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 43 (+4.8/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Imprégnée de l'énergie du soleil, Leona est une guerrière sainte des Solaris qui défend le Mont Targon ; elle combat avec sa Lame du zénith et son Bouclier de l'aube. Sa peau brûle d'éclats ardents et ses yeux crépitent au rythme de la Manifestation...
+
+Lillia — Fleur timide
+Rôle : Fighter, Mage
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 605 (+105/niv)
+- Attaque : 61 (+3.1/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 22 (+4.5/niv)
+- Résistance magique : 32 (+1.55/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Profondément timide, Lillia, le faon féérique, parcourt nerveusement les forêts d'Ionia. Échappant toujours au regard des mortels dont la nature a longtemps captivé et intimidé la jeune créature, Lillia espère découvrir la raison pour laquelle les rêves...
+
+Lissandra — Sorcière de glace
+Rôle : Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 620 (+110/niv)
+- Attaque : 55 (+2.7/niv)
+- Vitesse d’attaque : 0.656
+- Armure : 22 (+4.9/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : La magie de Lissandra est capable de manipuler la pure puissance de la glace en quelque chose d'à la fois obscur et terrible. Avec la force de sa glace noire, elle fait bien plus que glacer... elle empale et écrase ceux qui osent s'opposer à elle. Les...
+
+Lucian — Purificateur
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 641 (+100/niv)
+- Attaque : 60 (+2.9/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 28 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Lucian, Sentinelle de la lumière, est un funeste chasseur de spectres. Les pourchassant sans relâche, il les abat de ses pistolets jumeaux. Lorsque sa femme fut tuée par le spectre Thresh, Lucian fit tout pour se venger. Aujourd'hui, Senna est revenue à...
+
+Lulu — Sorcière féérique
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 565 (+92/niv)
+- Attaque : 47 (+2.6/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 26 (+4.6/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Magicienne yordle, Lulu aime conjurer des illusions oniriques et de drôles de créatures en explorant Runeterra avec Pix, sa fée de compagnie. Lulu forge la réalité selon ses désirs, modifiant à sa guise la structure du monde et ce qu'elle considère...
+
+Lux — Dame de lumière
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 580 (+99/niv)
+- Attaque : 54 (+3.3/niv)
+- Vitesse d’attaque : 0.669
+- Armure : 21 (+5.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Luxanna Crownguard est originaire de Demacia, un royaume isolationniste où la magie inspire la peur et la méfiance. Capable de plier la lumière à sa volonté, elle a grandi dans la crainte d'être un jour exilée et a été contrainte de dissimuler son...
+
+Malphite — Éclat du monolithe
+Rôle : Tank, Mage
+Ressource : Mana
+Difficulté : 2/10
+
+Statistiques :
+- PV : 665 (+104/niv)
+- Attaque : 62 (+4/niv)
+- Vitesse d’attaque : 0.736
+- Armure : 37 (+4.95/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Massive créature de pierre vivante, Malphite lutte pour imposer un ordre sacré dans un monde chaotique. Né pour servir l'obélisque mystique que l'on nomme le Monolithe, il utilisa son incroyable force élémentaire pour protéger son créateur, mais n'y...
+
+Malzahar — Prophète du Néant
+Rôle : Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 580 (+101/niv)
+- Attaque : 55 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 18 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Voyant fanatique ayant dédié son existence à l'unification de toute forme de vie, Malzahar croit fermement que le Néant est la voie du salut de Runeterra. Dans les étendues désertiques de Shurima, il suivit les voix qui murmuraient dans son esprit...
+
+Maokai — Tréant torturé
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 665 (+109/niv)
+- Attaque : 64 (+3.3/niv)
+- Vitesse d’attaque : 0.8
+- Armure : 35 (+5.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Maokai est un immense tréant possédé par la colère, qui combat les horreurs impies des Îles obscures. Il est devenu l'incarnation de la vengeance après la destruction de ses terres par un cataclysme magique, n'échappant lui-même à l'état de mort-vivant...
+
+Maître Yi — Fine lame Wuju
+Rôle : Assassin, Fighter
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 669 (+105/niv)
+- Attaque : 65 (+2.8/niv)
+- Vitesse d’attaque : 0.679
+- Armure : 33 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 355
+
+Résumé : Maître Yi a renforcé son corps et affûté son esprit jusqu'à ce que réflexion et action ne fassent plus qu'un. Bien qu'il ne fasse appel à la violence qu'en dernier recours, la grâce et la vitesse avec lesquelles il manie son épée assurent une résolution...
+
+Mel — Reflet de l'âme
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+93/niv)
+- Attaque : 54 (+3.3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 21 (+5.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Mel Medarda est l'héritière présumée de la famille Medarda, autrefois l'une des plus puissantes familles de Noxus. Aristocrate gracieuse en apparence, elle est en réalité une politicienne chevronnée, soucieuse de connaître les moindres détails de tous...
+
+Milio — Douce flamme
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 560 (+88/niv)
+- Attaque : 48 (+3.2/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 26 (+4.6/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Milio est un garçon d'Ixtal chaleureux qui, malgré son jeune âge, maîtrise l'Axiome du feu et a découvert le feu guérisseur. Grâce à cette puissance nouvelle, il espère intégrer les Yun Tal, comme sa grand-mère avant lui, et annuler le jugement qui...
+
+Miss Fortune — Chasseuse de primes
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 1/10
+
+Statistiques :
+- PV : 640 (+103/niv)
+- Attaque : 53 (+2.4/niv)
+- Vitesse d’attaque : 0.656
+- Armure : 25 (+4/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Capitaine de Bilgewater réputée pour sa beauté et crainte pour sa cruauté, Sarah Fortune est une personnalité qui détonne au milieu des criminels endurcis qui arpentent la cité portuaire. Enfant, elle assista au massacre de sa famille par Gangplank, le...
+
+Wukong — Roi des singes
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 610 (+99/niv)
+- Attaque : 66 (+3.5/niv)
+- Vitesse d’attaque : 0.69
+- Armure : 31 (+4.7/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Wukong est un Vastaya qui utilise sa force, son agilité et son intelligence pour semer la confusion parmi ses adversaires et prendre sur eux l'avantage. Après s'être fait un ami en la personne d'un guerrier nommé Maître Yi, Wukong est devenu le dernier...
+
+Mordekaiser — Revenant de fer
+Rôle : Fighter, Mage
+Ressource : Bouclier
+Difficulté : 4/10
+
+Statistiques :
+- PV : 645 (+104/niv)
+- Attaque : 61 (+4/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 37 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Deux fois abattu et trois fois né, Mordekaiser est un chef de guerre brutal venu d'un lointain passé. Il utilise ses pouvoirs nécromantiques pour lier les âmes à une éternité de servitude. Il n'y a plus guère de gens pour se souvenir de ses anciennes...
+
+Morgana — Déchue
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 1/10
+
+Statistiques :
+- PV : 630 (+104/niv)
+- Attaque : 56 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 25 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Déchirée entre ses origines célestes et mortelles, Morgana a enchaîné ses ailes pour appartenir pleinement à l'humanité et abattre sa peine et sa rancœur sur les corrompus et les malhonnêtes. Elle rejette les lois et les traditions qu'elle juge injustes...
+
+Naafiri — la meute de fer
+Rôle : Assassin, Fighter
+Ressource : Mana
+Difficulté : 2/10
+
+Statistiques :
+- PV : 610 (+105/niv)
+- Attaque : 55 (+2/niv)
+- Vitesse d’attaque : 0.663
+- Armure : 28 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : À travers le désert de Shurima, un concert de hurlements retentit. C'est l'appel des chiens des sables, ces prédateurs voraces qui se déplacent en meutes et luttent pour la moindre source de nourriture de ces terres stériles. Parmi ces meutes, une se...
+
+Nami — Aquamancienne
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 560 (+88/niv)
+- Attaque : 54 (+3.1/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 29 (+5.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Jeune Vastaya des mers, Nami fut la première de la tribu des Marai à quitter les océans et à s'aventurer sur la terre ferme lorsque leur accord ancestral avec les Targoniens fut rompu. Convaincue qu'il n'y avait pas d'autre solution, elle a décidé de...
+
+Nasus — Gardien des sables
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 631 (+104/niv)
+- Attaque : 67 (+4/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 34 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Nasus est un imposant Transfiguré à tête de chacal, une figure héroïque que les peuples du désert considéraient comme un demi-dieu aux temps anciens de Shurima. Il était très intelligent ; son savoir encyclopédique et son extraordinaire sens stratégique...
+
+Nautilus — Titan des profondeurs
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 646 (+100/niv)
+- Attaque : 61 (+3.3/niv)
+- Vitesse d’attaque : 0.706
+- Armure : 39 (+4.95/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Nautilus, une légende plus ancienne encore que la première jetée de Bilgewater, est un titan en armure qui sillonne les eaux sombres au large des Îles de la Flamme Bleue. Trahi il y a bien longtemps de cela, il frappe désormais sans prévenir, se servant...
+
+Neeko — Caméléon curieux
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 610 (+104/niv)
+- Attaque : 48 (+2.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 21 (+5.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Originaire d'une tribu disparue de Vastayas, Neeko est capable de se fondre dans n'importe quelle foule en empruntant l'apparence des autres, allant même jusqu'à absorber un soupçon de leur état émotionnel pour différencier un instant les amis des...
+
+Nidalee — Chasseresse bestiale
+Rôle : Assassin, Mage
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 610 (+109/niv)
+- Attaque : 58 (+3.5/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 32 (+5/niv)
+- Résistance magique : 30 (+1.45/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Élevée au plus profond de la jungle, Nidalee est une pisteuse d'exception qui peut se transformer à volonté en couguar. Ni totalement femme, ni totalement bête, elle défend férocement son territoire contre tous ceux qui veulent y pénétrer avec ses...
+
+Nilah — Joie incarnée
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 10/10
+
+Statistiques :
+- PV : 570 (+101/niv)
+- Attaque : 58 (+2/niv)
+- Vitesse d’attaque : 0.697
+- Armure : 27 (+4.5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Nilah est une guerrière disciplinée originaire d'une contrée lointaine. Elle traque les monstres les plus gigantesques et les plus dangereux pour les affronter et les détruire. Elle a obtenu son pouvoir du démon de la joie, emprisonné il y a bien...
+
+Nocturne — Éternel cauchemar
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 655 (+109/niv)
+- Attaque : 62 (+2.6/niv)
+- Vitesse d’attaque : 0.721
+- Armure : 38 (+4.7/niv)
+- Résistance magique : 32 (+1.55/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Expression démoniaque des cauchemars qui hantent tous les êtres doués d'intelligence, la chose que l'on nomme Nocturne est devenue une force primordiale du mal. D'aspect liquide, c'est une ombre sans visage, au regard glacial, armée de lames effrayantes...
+
+Nunu et Willump — Le Garçon et son yéti
+Rôle : Tank, Mage
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 610 (+90/niv)
+- Attaque : 61 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 29 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Il était une fois un jeune garçon qui voulait prouver qu'il était un héros en tuant un monstre effrayant, mais il découvrit que la créature, un yéti solitaire, avait seulement besoin d'un ami. Rapprochés par une puissance ancienne et un amour partagé...
+
+Olaf — Berzerker
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 645 (+119/niv)
+- Attaque : 68 (+4.7/niv)
+- Vitesse d’attaque : 0.694
+- Armure : 35 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Olaf, avec sa hache et son extraordinaire force de destruction, ne souhaite que mourir au combat. Venu de l'âpre péninsule freljordienne de Lokfar, il a été choqué par une prophétie qui lui prédisait une mort paisible : dans l'esprit de son peuple, une...
+
+Orianna — Demoiselle mécanique
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 585 (+110/niv)
+- Attaque : 44 (+2.6/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 20 (+4.2/niv)
+- Résistance magique : 26 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Autrefois une jeune fille curieuse, de chair et d'os, Orianna est aujourd'hui une merveille de technologie entièrement mécanisée. Elle est tombée gravement malade à la suite d'un accident dans les quartiers inférieurs de Zaun, et son corps défaillant a...
+
+Ornn — Dieu de la forge volcanique
+Rôle : Tank
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 660 (+109/niv)
+- Attaque : 69 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 33 (+5.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Ornn est le demi-dieu de la forge et de l'artisanat à Freljord. Avec comme seule compagne la solitude, il travaille dans sa forge enfouie au plus profond des cavernes de lave de l'Âtre-foyer. C'est là qu'il fond et purifie les métaux nécessaires à la...
+
+Pantheon — Lance éternelle
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 650 (+109/niv)
+- Attaque : 64 (+3.3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 40 (+4.95/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Autrefois l'hôte réticent de la Manifestation de la Guerre, Atreus a survécu à la mort de la puissance céleste qui l'habitait, refusant de succomber au coup qui arracha les étoiles mêmes des cieux. Avec le temps, il apprit à accepter le pouvoir de sa...
+
+Poppy — Gardienne du marteau
+Rôle : Tank, Fighter
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 610 (+110/niv)
+- Attaque : 60 (+4/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 35 (+5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Runeterra ne manque pas de braves champions, mais peu peuvent se targuer d'être aussi tenaces que Poppy. Armée du légendaire marteau d'Orlon, faisant deux fois sa taille, cette yordle déterminée cherche depuis d'innombrables années le « héros de...
+
+Pyke — Éventreur des abysses
+Rôle : Support, Assassin
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 670 (+110/niv)
+- Attaque : 62 (+2/niv)
+- Vitesse d’attaque : 0.667
+- Armure : 43 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Harponneur renommé des quais-abattoirs de Bilgewater, Pyke aurait dû trouver la mort dans le ventre d'une énorme créature marine… et pourtant, il est revenu. À présent, il écume les ruelles sombres de son ancien port d'attache, utilisant ses dons...
+
+Qiyana — Impératrice des éléments
+Rôle : Assassin
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 590 (+124/niv)
+- Attaque : 66 (+3.1/niv)
+- Vitesse d’attaque : 0.688
+- Armure : 31 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Dans la ville d'Ixaocan, perdue dans la jungle, Qiyana complote pour obtenir au prix du sang le siège révéré des Yun Tal. Dernière dans l'ordre de la succession, elle affronte ceux qui sont sur son chemin avec une absolue confiance en elle et une...
+
+Quinn — Ailes de Demacia
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 565 (+107/niv)
+- Attaque : 59 (+2.7/niv)
+- Vitesse d’attaque : 0.668
+- Armure : 28 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Quinn est un chevalier-éclaireur d'élite de Demacia qui se spécialise dans les missions d'infiltration en territoire ennemi. Avec son aigle de légende, Valor, elle forme un duo inséparable dont les proies rendent souvent l'âme avant même de comprendre...
+
+Rakan — Charmeur
+Rôle : Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 610 (+99/niv)
+- Attaque : 62 (+3.5/niv)
+- Vitesse d’attaque : 0.635
+- Armure : 30 (+4.9/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Aussi lunatique qu'il est charmeur, Rakan est un trublion vastaya tristement célèbre, et le plus grand danseur guerrier de l'histoire de la tribu Lhotla. Pour les humains qui vivent dans les hautes terres d'Ionia, son nom est depuis longtemps synonyme...
+
+Rammus — Tatou blindé
+Rôle : Tank
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 675 (+94/niv)
+- Attaque : 55 (+2.75/niv)
+- Vitesse d’attaque : 0.656
+- Armure : 40 (+5.5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Beaucoup l'idolâtrent, certains le méprisent, mais tous restent perplexes devant l'énigmatique Rammus. Protégé par une carapace cloutée, il inspire des théories de plus en plus variées sur ses origines : demi-dieu, oracle, simple bête transformée par la...
+
+Rek'Sai — Traqueuse du Néant
+Rôle : Fighter, Tank
+Ressource : Rage
+Difficulté : 3/10
+
+Statistiques :
+- PV : 600 (+99/niv)
+- Attaque : 58 (+3/niv)
+- Vitesse d’attaque : 0.667
+- Armure : 36 (+4.95/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Rek'Sai est une créature prédatrice – la plus imposante et la plus féroce de son espèce – qui se déplace sous terre pour surprendre ses proies. Sa faim insatiable a ravagé des régions entières de Shurima à l'époque où cet empire était encore florissant...
+
+Rell — Vierge de fer
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 0/10
+
+Statistiques :
+- PV : 620 (+104/niv)
+- Attaque : 55 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 30 (+4/niv)
+- Résistance magique : 28 (+1.8/niv)
+- Vitesse de déplacement : 315
+
+Résumé : Changée en arme vivante par les expériences brutales de l'académie de la Rose noire, Rell est aujourd'hui déterminée à détruire Noxus. Son enfance a été particulièrement horrible ; on lui a fait subir des choses atroces afin de perfectionner ses...
+
+Renata Glasc — Baronne de la chimie
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 545 (+94/niv)
+- Attaque : 49 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 27 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Renata Glasc s'extirpa des cendres de sa maison natale avec son nom et les recherches alchimiques de ses parents pour seules possessions. Au cours des décennies suivantes, elle devint la Baronne de la chimie la plus riche de Zaun et un génie des...
+
+Renekton — Dévoreur des sables
+Rôle : Fighter, Tank
+Ressource : Fureur
+Difficulté : 3/10
+
+Statistiques :
+- PV : 660 (+111/niv)
+- Attaque : 69 (+4.15/niv)
+- Vitesse d’attaque : 0.665
+- Armure : 35 (+5.2/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Originaire du désert brûlant de Shurima, Renekton est un Transfiguré terrifiant animé par la rage. Il était autrefois le guerrier le plus respecté de l'empire de Shurima, dont il avait mené les armées vers la victoire à maintes reprises. Cependant...
+
+Rengar — Fier traqueur
+Rôle : Assassin, Fighter
+Ressource : Férocité
+Difficulté : 8/10
+
+Statistiques :
+- PV : 590 (+104/niv)
+- Attaque : 68 (+3/niv)
+- Vitesse d’attaque : 0.667
+- Armure : 34 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Rengar est un féroce Vastaya chasseur de trophées qui ne vit que pour le frisson de la traque et de l'élimination des proies les plus dangereuses. Il parcourt le monde à la recherche des bêtes les plus féroces, et surtout de Kha'Zix, la créature du...
+
+Riven — Exilée brisée
+Rôle : Fighter, Assassin
+Ressource : Aucune
+Difficulté : 8/10
+
+Statistiques :
+- PV : 630 (+100/niv)
+- Attaque : 64 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 33 (+4.4/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Autrefois soldat d'un régiment de Noxus, Riven est désormais expatriée dans un pays qu'elle avait elle-même tenté d'envahir. Elle s'est naguère élevée dans la hiérarchie grâce à sa force de conviction et à son efficacité brutale : sa récompense fut de...
+
+Rumble — Menace mécanisée
+Rôle : Fighter, Mage
+Ressource : Vapeur
+Difficulté : 10/10
+
+Statistiques :
+- PV : 655 (+105/niv)
+- Attaque : 64 (+3.2/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 36 (+4.7/niv)
+- Résistance magique : 28 (+1.55/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Rumble est un jeune inventeur soupe au lait. Ne disposant que de ses deux mains et d'une pile de ferraille, le yordle au tempérament de feu se fabriqua une colossale armure mécanique, dotée d'un arsenal de harpons électrifiés et de roquettes...
+
+Ryze — Mage runique
+Rôle : Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 645 (+124/niv)
+- Attaque : 58 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 22 (+4.2/niv)
+- Résistance magique : 32 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Largement considéré comme l'un des plus puissants sorciers de Runeterra, Ryze est un archimage endurci par les ans qui porte un fardeau incommensurable sur ses épaules. Armé d'une constitution à toute épreuve et d'un vaste arsenal de connaissances...
+
+Samira — Rose du désert
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 630 (+108/niv)
+- Attaque : 57 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 26 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Toujours en quête de sensations fortes, Samira regarde la mort dans les yeux avec une confiance inébranlable. Après la destruction qui a frappé son foyer shurimien lorsqu'elle était enfant, Samira a trouvé sa véritable vocation à Noxus, où elle s'est...
+
+Sejuani — Fureur du nord
+Rôle : Tank
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 630 (+114/niv)
+- Attaque : 66 (+4/niv)
+- Vitesse d’attaque : 0.688
+- Armure : 34 (+5.45/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Sejuani est l'impitoyable chef de guerre sublimée de la Griffe hivernale, l'une des tribus les plus redoutées de Freljord. La survie de son peuple est une lutte constante et désespérée contre les éléments. Pour résister aux rigueurs de l'hiver, il doit...
+
+Senna — Rédemptrice
+Rôle : Support, Marksman
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 530 (+89/niv)
+- Attaque : 50 (+0/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 25 (+4/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Condamnée à être poursuivie par la Brume noire dès l'enfance, Senna rejoignit l'ordre sacré des Sentinelles de la lumière. Elle combattit avec ferveur, mais elle fut tuée et son âme fut emprisonnée dans une lanterne par l'odieux spectre Thresh. Ne...
+
+Séraphine — Chanteuse rêveuse
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 0/10
+
+Statistiques :
+- PV : 570 (+90/niv)
+- Attaque : 50 (+3/niv)
+- Vitesse d’attaque : 0.669
+- Armure : 26 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Née à Piltover de parents zauniens, Séraphine peut entendre les âmes des autres. Le monde chante pour elle et elle chante pour le monde. Alors que ces sons l'accablaient dans sa jeunesse, elle s'en inspire aujourd'hui et transforme le chaos en symphonie...
+
+Sett — Patron
+Rôle : Fighter, Tank
+Ressource : Agressivité
+Difficulté : 2/10
+
+Statistiques :
+- PV : 670 (+114/niv)
+- Attaque : 60 (+4/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 33 (+5.2/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Sett s'est imposé en tant que chef du monde criminel florissant d'Ionia après la guerre contre Noxus. Bien qu'il ait fait ses débuts de manière modeste dans les arènes de combat de Navori, il s'est rapidement fait une réputation pour sa force sauvage et...
+
+Shaco — Bouffon des ténèbres
+Rôle : Assassin
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 630 (+99/niv)
+- Attaque : 63 (+3/niv)
+- Vitesse d’attaque : 0.694
+- Armure : 30 (+4/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Fabriqué il y a longtemps pour servir de jouet à un prince qui se sentait seul, Shaco est une marionnette enchantée qui se repaît désormais de meurtres et de chaos. Corrompu par la magie noire et la perte de sa chère mission, le pantin autrefois gentil...
+
+Shen — Œil du crépuscule
+Rôle : Tank
+Ressource : Énergie
+Difficulté : 4/10
+
+Statistiques :
+- PV : 610 (+99/niv)
+- Attaque : 64 (+3/niv)
+- Vitesse d’attaque : 0.751
+- Armure : 34 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Shen, l'Œil du crépuscule, est le chef d'un groupe secret de guerriers ioniens connu sous le nom de Kinkou. Désireux d'échapper aux méfaits des émotions, des préjugés et de l'ego, il porte un regard désintéressé sur les choses en arpentant le chemin...
+
+Shyvana — Demi-dragon
+Rôle : Fighter, Mage
+Ressource : Fureur
+Difficulté : 4/10
+
+Statistiques :
+- PV : 665 (+104/niv)
+- Attaque : 66 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 38 (+4.55/niv)
+- Résistance magique : 32 (+1.5/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Shyvana est une créature dont le cœur palpite au rythme brûlant d'un éclat de rune magique. Bien qu'elle paraisse souvent humanoïde, elle peut se transformer à volonté en un terrifiant dragon, crachant des flammes sur ses ennemis. Après avoir sauvé la...
+
+Singed — Chimiste fou
+Rôle : Tank, Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 650 (+96/niv)
+- Attaque : 63 (+3.4/niv)
+- Vitesse d’attaque : 0.7
+- Armure : 34 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Singed est un alchimiste brillant à la moralité douteuse dont les expériences retourneraient l'estomac du plus cruel des criminels. Vendant son savoir-faire au plus offrant, il n'a que faire de la façon dont ses concoctions nocives sont utilisées. Il...
+
+Sion — Colosse mort-vivant
+Rôle : Tank, Fighter
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 655 (+87/niv)
+- Attaque : 68 (+4/niv)
+- Vitesse d’attaque : 0.679
+- Armure : 36 (+4.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Guerrier sanguinaire d'une époque révolue, Sion était célébré comme un héros à Noxus, pour avoir étouffé un roi de Demacia de ses mains nues. Il était l'objet d'une telle dévotion qu'on lui refusa le repos éternel, en le ramenant à la vie pour continuer...
+
+Sivir — Vierge martiale
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 600 (+104/niv)
+- Attaque : 60 (+2.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 30 (+4.45/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Sivir est une célèbre chasseuse de trésors et capitaine de mercenaires œuvrant dans le désert de Shurima. Armée de sa légendaire lame en croix, elle a triomphé d'innombrables batailles pour les clients prêts à honorer ses tarifs exorbitants. Connue pour...
+
+Skarner — Souverain originel
+Rôle : Tank, Fighter
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+110/niv)
+- Attaque : 63 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 33 (+4.5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : L'antique Brackern Skarner est vénéré à Ixtal comme l'un des membres fondateurs de la caste dirigeante, les Yun Tal. Il protège farouchement sa nation du reste du monde en écoutant les vibrations de la terre pour détecter de potentielles menaces depuis...
+
+Smolder — Dragonnet flamboyant
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 575 (+100/niv)
+- Attaque : 60 (+2.3/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 24 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Caché dans les falaises escarpées de la frontière noxienne et attentivement surveillé par sa mère, un jeune dragon apprend ce que signifie être l'héritier de la lignée impériale des dragons camavoriens. Joueur et impatient de grandir, Smolder est prêt à...
+
+Sona — Virtuose de la harpe
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 550 (+91/niv)
+- Attaque : 49 (+3/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 26 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Sona est la plus grande virtuose de l'etwahl de Demacia, ne s'exprimant que par ses accords vibrants et gracieux. Ses manières distinguées lui valent d'être appréciée par l'aristocratie, bien que beaucoup soupçonnent ses mélodies envoûtantes de...
+
+Soraka — Enfant des étoiles
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 605 (+88/niv)
+- Attaque : 50 (+3/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 32 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Voyageuse originaire de dimensions célestes d'au-delà du Mont Targon, Soraka a abandonné son immortalité pour protéger les mortels de leurs instincts violents. Elle cherche à pousser tous ceux qu'elle rencontre à embrasser les vertus de la compassion et...
+
+Swain — Grand général noxien
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 595 (+99/niv)
+- Attaque : 58 (+2.7/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 25 (+4.7/niv)
+- Résistance magique : 31 (+1.55/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Jericho Swain est le chef visionnaire de Noxus, une nation expansionniste qui ne respecte que la force. Bien que déchu et blessé pendant les guerres ioniennes, il a pris le contrôle de l'empire avec une féroce détermination… Et une nouvelle main...
+
+Sylas — Révolutionnaire déchaîné
+Rôle : Mage, Assassin
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 600 (+122/niv)
+- Attaque : 61 (+3/niv)
+- Vitesse d’attaque : 0.645
+- Armure : 29 (+5.2/niv)
+- Résistance magique : 32 (+2.55/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Élevé dans l'un des quartiers les plus pauvres de Demacia, Sylas de Liebourg est devenu le symbole du côté obscur de la Grande cité. Enfant, sa capacité à déceler la sorcellerie cachée attira l'attention des tristement célèbres traqueurs de mages, qui...
+
+Syndra — Souveraine obscure
+Rôle : Mage
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 563 (+104/niv)
+- Attaque : 54 (+2.9/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 25 (+4.6/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Syndra est une effrayante magicienne originaire d'Ionia, aux pouvoirs impressionnants. Enfant, elle perturba les anciens de son village avec sa magie sauvage et incontrôlée. Elle fut confiée à un maître dans l'espoir qu'elle apprendrait à se contrôler...
+
+Tahm Kench — Roi des rivières
+Rôle : Tank, Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 640 (+103/niv)
+- Attaque : 56 (+3.2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 39 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Au fil du temps, on lui a donné de nombreux noms. Le démon Tahm Kench voyage dans les cours d'eau de Runeterra, nourrissant son insatiable appétit de la misère des autres. Bien qu'il puisse sembler particulièrement charmant et fier, il rôde dans le...
+
+Taliyah — Tisseuse de pierres
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 550 (+104/niv)
+- Attaque : 58 (+3.3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 18 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Taliyah est une mage issue des tribus nomades de Shurima, déchirée entre l'émerveillement de la jeunesse et les responsabilités des adultes. Elle a déjà traversé pratiquement tout Valoran pour découvrir la véritable nature de ses pouvoirs toujours plus...
+
+Talon — Lame des ténèbres
+Rôle : Assassin
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 658 (+109/niv)
+- Attaque : 68 (+3.1/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 30 (+4.7/niv)
+- Résistance magique : 36 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Talon est la dague cachée dans l'ombre, un assassin impitoyable, capable de frapper sans prévenir et de fuir avant que l'alerte ne soit donnée. Il a acquis une dangereuse réputation dans les brutales rues de Noxus, où il a été contraint de se battre, de...
+
+Taric — Bouclier de Valoran
+Rôle : Support, Tank
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 645 (+99/niv)
+- Attaque : 55 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 40 (+4.3/niv)
+- Résistance magique : 28 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Taric est la Manifestation du Protecteur, doté d'un incroyable pouvoir en tant que gardien de la vie, de l'amour et de la beauté sur Runeterra. Couvert d'opprobre pour avoir abandonné son devoir et exilé de sa terre natale de Demacia, Taric a entrepris...
+
+Teemo — Éclaireur de Bandle
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 615 (+104/niv)
+- Attaque : 54 (+3/niv)
+- Vitesse d’attaque : 0.69
+- Armure : 24 (+4.95/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : N'ayant pas peur de braver les obstacles les plus dangereux, Teemo explore le monde avec un enthousiasme débordant et une bonne humeur contagieuse. Yordle au sens moral inflexible, il suit fièrement les préceptes du Code des éclaireurs de Bandle...
+
+Thresh — Garde aux chaînes
+Rôle : Support, Tank
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 620 (+120/niv)
+- Attaque : 56 (+2.2/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 33 (+0/niv)
+- Résistance magique : 30 (+1.55/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Sadique mais rusé, Thresh est un ambitieux spectre des Îles obscures. Autrefois le gardien d'innombrables secrets des arcanes, il fut terrassé par un pouvoir plus grand que la vie ou la mort, et il s'alimente maintenant des souffrances et des tourments...
+
+Tristana — Canonnière yordle
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 640 (+102/niv)
+- Attaque : 60 (+2.5/niv)
+- Vitesse d’attaque : 0.656
+- Armure : 30 (+4/niv)
+- Résistance magique : 28 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Si bon nombre d'autres yordles utilisent leur énergie débordante pour explorer, découvrir, inventer ou plus simplement jouer de mauvais tours, Tristana a toujours puisé son inspiration dans les récits des grands guerriers. Elle avait beaucoup entendu...
+
+Trundle — Roi des trolls
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 650 (+110/niv)
+- Attaque : 68 (+4/niv)
+- Vitesse d’attaque : 0.67
+- Armure : 37 (+3.9/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Trundle est un troll massif, sournois et malicieux. Il n'y a rien qu'il ne puisse soumettre à sa volonté avec son gourdin, pas même Freljord. Extrêmement territorial, Trundle traque tous ceux qui sont assez fous pour pénétrer sur ses terres. Ensuite...
+
+Tryndamere — Roi barbare
+Rôle : Fighter, Assassin
+Ressource : Fureur
+Difficulté : 5/10
+
+Statistiques :
+- PV : 696 (+108/niv)
+- Attaque : 66 (+4/niv)
+- Vitesse d’attaque : 0.67
+- Armure : 33 (+4.8/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Poussé par une rage infinie, Tryndamere traverse Freljord et parfait sa maîtrise du combat en défiant les plus grands guerriers du nord, pour se préparer aux jours sombres qui s'annoncent. Longtemps dominé par sa haine, il cherchait à se venger de...
+
+Twisted Fate — Maître des cartes
+Rôle : Mage, Marksman
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 604 (+108/niv)
+- Attaque : 52 (+2.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 24 (+4.35/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Twisted Fate est un virtuose des cartes à la réputation ambiguë qui a parcouru le monde entier pour l'éblouir de son charme et de ses talents, s'attirant l'admiration et la haine des riches comme des pigeons. Il prend rarement les choses au sérieux...
+
+Twitch — Semeur de peste
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 630 (+104/niv)
+- Attaque : 59 (+3.1/niv)
+- Vitesse d’attaque : 0.679
+- Armure : 27 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Rat de Zaun, pesteux de naissance, connaisseur en saleté par passion, Twitch n'a pas peur de se salir les pattes. Armé d'une arbalète chimique qu'il pointe droit sur le cœur de Piltover, Twitch s'est juré de montrer aux gens de la surface à quel point...
+
+Udyr — Gardien des esprits
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 664 (+92/niv)
+- Attaque : 62 (+4/niv)
+- Vitesse d’attaque : 0.65
+- Armure : 31 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 350
+
+Résumé : Udyr est le plus puissant des Gardiens des esprits, il communie avec l'ensemble des esprits qui habitent Freljord. Il comprend leurs besoins avec empathie et il est capable de canaliser et de transformer leur énergie éthérée pour alimenter son propre...
+
+Urgot — Broyeur
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 655 (+102/niv)
+- Attaque : 63 (+4/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 36 (+5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Autrefois, Urgot était un puissant bourreau noxien. Il fut trahi par l'empire pour lequel il avait tant tué. Ceint de chaînes de fer, il fut contraint d'apprendre le vrai sens de la force dans les Oubliettes, une mine de forçats située dans les...
+
+Varus — Flèche de la vengeance
+Rôle : Marksman, Mage
+Ressource : Mana
+Difficulté : 2/10
+
+Statistiques :
+- PV : 600 (+105/niv)
+- Attaque : 59 (+3.4/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 27 (+4.6/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Membre de la race antique des Darkin, Varus était en son temps un assassin cruel qui aimait torturer ses ennemis, les conduisant jusqu'aux portes de la folie avant de les achever d'une flèche. À la fin de la Guerre des Darkin, il fut emprisonné. Des...
+
+Vayne — Chasseresse nocturne
+Rôle : Marksman, Assassin
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 550 (+103/niv)
+- Attaque : 60 (+2.35/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 23 (+4.6/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Shauna Vayne est une chasseuse de monstres mortelle et sans scrupule. Originaire de Demacia, elle voue sa vie à la destruction du démon qui a assassiné sa famille. Armée d'une arbalète montée sur son poignet et dotée d'un cœur rongé par le désir de...
+
+Veigar — Seigneur des maléfices
+Rôle : Mage
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 580 (+108/niv)
+- Attaque : 52 (+2.7/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 18 (+5.2/niv)
+- Résistance magique : 32 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Maître enthousiaste de la magie noire, Veigar s'est approprié des pouvoirs que peu de mortels osent approcher. Habitant de Bandle à l'esprit libre, il veut repousser les limites de la magie yordle et se tourner vers les textes arcaniques qui sont restés...
+
+Vel'Koz — Œil du Néant
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 590 (+102/niv)
+- Attaque : 55 (+3.1416/niv)
+- Vitesse d’attaque : 0.643
+- Armure : 22 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : On ne sait pas trop si Vel'Koz fut le premier monstre du Néant à émerger à Runeterra, mais il est certain qu'aucun autre n'a jamais égalé la froideur calculatrice de sa cruauté. Alors que ses semblables dévorent ou profanent tout ce qui les entoure, il...
+
+Vex — Ombre du désespoir
+Rôle : Mage
+Ressource : Mana
+Difficulté : 0/10
+
+Statistiques :
+- PV : 590 (+104/niv)
+- Attaque : 54 (+2.75/niv)
+- Vitesse d’attaque : 0.669
+- Armure : 23 (+4.45/niv)
+- Résistance magique : 28 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Au cœur des terribles Îles obscures et de leur brume spectrale, une yordle solitaire se complaît dans son malheur. Vex se protège de la gaieté, de l'excitation et des gens « normaux » dont le monde extérieur regorge grâce à une dose inépuisable...
+
+Vi — Cogne de Piltover
+Rôle : Fighter, Assassin
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 655 (+99/niv)
+- Attaque : 63 (+3/niv)
+- Vitesse d’attaque : 0.644
+- Armure : 30 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Élevée dans les quartiers louches de Zaun, Vi est une femme sans peur, mais pas sans reproche, au tempérament bouillant, impulsif, qui n'a qu'un respect mesuré pour l'autorité. Elle a toujours été une survivante astucieuse, que ce soit lorsqu'elle...
+
+Viego — Roi déchu
+Rôle : Fighter, Assassin
+Ressource : Aucune
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+109/niv)
+- Attaque : 57 (+3.5/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 34 (+4.6/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Autrefois souverain d'un royaume perdu depuis longtemps, Viego mourut il y a plus de mille ans lorsqu'il tenta de ramener sa femme d'entre les morts. Cela causa la catastrophe magique connue sous le nom de la Ruine. Devenu un puissant spectre torturé...
+
+Viktor — Héraut de l'arcane
+Rôle : Mage
+Ressource : Mana
+Difficulté : 9/10
+
+Statistiques :
+- PV : 600 (+100/niv)
+- Attaque : 53 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 23 (+4.4/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Passant d'être humain maladif à un être entièrement biomécanique, Viktor a adopté sa glorieuse évolution et est devenu une sorte de messie pour ses adeptes. Il a sacrifié sa propre humanité, convaincu qu'éliminer ses émotions éliminerait ses souffrances...
+
+Vladimir — Saigneur pourpre
+Rôle : Mage, Fighter
+Ressource : Afflux sanguin
+Difficulté : 7/10
+
+Statistiques :
+- PV : 607 (+110/niv)
+- Attaque : 55 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 27 (+4.5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Assoiffé de sang humain, Vladimir influe sur la politique de Noxus depuis les premiers jours de l'empire. En plus d'allonger surnaturellement sa vie, sa maîtrise de l'hémomancie lui permet de contrôler les esprits et les corps des autres aussi aisément...
+
+Volibear — Tempête impitoyable
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 650 (+104/niv)
+- Attaque : 60 (+3.5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 31 (+5.2/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Pour ceux qui le vénèrent encore, Volibear est l'incarnation de la tempête. Destructeur, sauvage et déterminé, il existait bien avant que les mortels n'arpentent la toundra de Freljord ; désormais, il défend férocement les terres qu'il a créées avec sa...
+
+Warwick — Fureur déchaînée de Zaun
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 3/10
+
+Statistiques :
+- PV : 620 (+99/niv)
+- Attaque : 60 (+2.75/niv)
+- Vitesse d’attaque : 0.638
+- Armure : 33 (+4.4/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Warwick est un monstre qui chasse dans les allées grises de Zaun. Métamorphosé à l'issue d'expériences incroyablement douloureuses, son corps est désormais fusionné avec un système complexe de chambres et de pompes, une machinerie qui distille dans ses...
+
+Xayah — Rebelle
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+107/niv)
+- Attaque : 60 (+3.5/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 25 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Précise et meurtrière, Xayah est une révolutionnaire vastaya menant une guerre personnelle dans le but de sauver son peuple. Elle se sert de sa célérité, de sa ruse et de ses plumes tranchantes comme des rasoirs pour terrasser tous ceux qui se dressent...
+
+Xerath — Mage suprême
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 8/10
+
+Statistiques :
+- PV : 596 (+106/niv)
+- Attaque : 55 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 22 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Xerath est un mage transfiguré de la Shurima antique, un être d'énergie arcanique habitant les fragments détruits d'un sarcophage magique. Pendant des millénaires, il est resté prisonnier des sables du désert, mais le retour de Shurima l'a libéré de sa...
+
+Xin Zhao — Sénéchal de Demacia
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 2/10
+
+Statistiques :
+- PV : 640 (+106/niv)
+- Attaque : 63 (+3/niv)
+- Vitesse d’attaque : 0.645
+- Armure : 35 (+4.4/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Xin Zhao est un guerrier résolu qui sert fidèlement la dynastie régnante des Lightshield. Naguère condamné à se battre dans les arènes de combat de Noxus, il survécut à d'innombrables rencontres de gladiateurs. Mais après avoir été libéré par les forces...
+
+Yasuo — Disgracié
+Rôle : Fighter, Assassin
+Ressource : Impulsion
+Difficulté : 10/10
+
+Statistiques :
+- PV : 590 (+110/niv)
+- Attaque : 60 (+3/niv)
+- Vitesse d’attaque : 0.697
+- Armure : 32 (+4.6/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : L'Ionien Yasuo est un épéiste agile et résolu, capable de déchaîner contre ses ennemis la puissance de l'air. Alors qu'il était encore un jeune homme fier, il fut accusé à tort d'avoir assassiné son maître. Incapable de prouver son innocence, il dut...
+
+Yone — Inoublié
+Rôle : Fighter, Assassin
+Ressource : Impulsion
+Difficulté : 8/10
+
+Statistiques :
+- PV : 620 (+105/niv)
+- Attaque : 60 (+2/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 33 (+4.6/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : Au cours de sa vie, Yone fut le demi-frère de Yasuo et un disciple renommé de l'école d'armes de son village. Mais après avoir été tué par son propre frère, il se retrouva hanté par une entité malveillante dans le royaume spirituel. Il dut la tuer avec...
+
+Yorick — Berger des âmes
+Rôle : Fighter, Tank
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 650 (+114/niv)
+- Attaque : 62 (+5/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 39 (+4.5/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Yorick est le dernier survivant d'un ordre religieux disparu depuis longtemps et son pouvoir sur les morts est à la fois une bénédiction et une malédiction. Prisonnier des Îles obscures, il n'a pour compagnons que les cadavres pourrissants et les...
+
+Yuumi — Gardienne du Grimoire
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 2/10
+
+Statistiques :
+- PV : 500 (+69/niv)
+- Attaque : 49 (+3.1/niv)
+- Vitesse d’attaque : 0.625
+- Armure : 25 (+4.2/niv)
+- Résistance magique : 25 (+1.1/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Originaire de Bandle, Yuumi est un familier magique dont la maîtresse, une enchanteresse yordle du nom de Norra, a mystérieusement disparu. Yuumi est désormais la gardienne du Grimoire des Seuils que possédait Norra, un livre permettant de franchir des...
+
+Zac — Arme secrète
+Rôle : Tank, Fighter
+Ressource : Aucune
+Difficulté : 8/10
+
+Statistiques :
+- PV : 685 (+109/niv)
+- Attaque : 60 (+3.4/niv)
+- Vitesse d’attaque : 0.736
+- Armure : 33 (+4.7/niv)
+- Résistance magique : 32 (+2.05/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Zac est le produit d'une fuite toxique qui, dégoulinant par une veine techno-chimique, se transforma en bassin dans une profonde caverne du Puisard de Zaun. En dépit de ses humbles origines, Zac a évolué pour passer du stade de dépôt primordial à celui...
+
+Zed — Maître des ombres
+Rôle : Assassin
+Ressource : Énergie
+Difficulté : 7/10
+
+Statistiques :
+- PV : 654 (+99/niv)
+- Attaque : 63 (+3.4/niv)
+- Vitesse d’attaque : 0.651
+- Armure : 32 (+4.7/niv)
+- Résistance magique : 29 (+2.05/niv)
+- Vitesse de déplacement : 345
+
+Résumé : L'impitoyable Zed est le maître de l'Ordre de l'ombre, une organisation qu'il a créée dans l'intention de militariser la tradition des arts martiaux d'Ionia et de chasser enfin les envahisseurs noxiens. Pendant la guerre, le désespoir le conduisit à...
+
+Zeri — Étincelle de Zaun
+Rôle : Marksman
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 600 (+110/niv)
+- Attaque : 56 (+2/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 24 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 330
+
+Résumé : Zeri est une jeune femme vive et téméraire originaire des quartiers défavorisés de Zaun. Elle canalise son électricité intérieure afin de la charger dans un fusil conçu spécialement pour elle. Son pouvoir magique est le reflet de ses émotions, et ses...
+
+Ziggs — Expert des Hexplosifs
+Rôle : Mage
+Ressource : Mana
+Difficulté : 4/10
+
+Statistiques :
+- PV : 606 (+106/niv)
+- Attaque : 55 (+3.1/niv)
+- Vitesse d’attaque : 0.656
+- Armure : 21 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 325
+
+Résumé : Amoureux des grosses bombes et des mèches courtes, le yordle Ziggs est une force de la nature explosive. Assistant d'un inventeur de Piltover, il finit par se lasser de sa vie routinière et devint l'ami d'une jeune fille imprévisible et portée sur les...
+
+Zilean — Gardien du Temps
+Rôle : Support, Mage
+Ressource : Mana
+Difficulté : 6/10
+
+Statistiques :
+- PV : 574 (+96/niv)
+- Attaque : 52 (+3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 24 (+5/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 335
+
+Résumé : Naguère puissant mage d'Icathia, Zilean devint obsédé par le passage du temps après avoir assisté à la destruction de sa terre natale par le Néant. Refusant de perdre une minute à pleurer sur les décombres, il fit appel à une antique force magique...
+
+Zoé — Manifestation du Crépuscule
+Rôle : Mage
+Ressource : Mana
+Difficulté : 5/10
+
+Statistiques :
+- PV : 630 (+106/niv)
+- Attaque : 58 (+3.3/niv)
+- Vitesse d’attaque : 0.658
+- Armure : 21 (+4.7/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Incarnation de l'espièglerie, de l'imagination et de l'inconstance, Zoé est une messagère cosmique de Targon, annonciatrice des grands événements qui chamboulent les mondes. Sa simple présence distord les règles mathématiques qui gouvernent dans l'ombre...
+
+Zyra — Dame aux ronces
+Rôle : Mage, Support
+Ressource : Mana
+Difficulté : 7/10
+
+Statistiques :
+- PV : 574 (+93/niv)
+- Attaque : 53 (+3.2/niv)
+- Vitesse d’attaque : 0.681
+- Armure : 29 (+4.2/niv)
+- Résistance magique : 30 (+1.3/niv)
+- Vitesse de déplacement : 340
+
+Résumé : Née au cours d'une ancienne catastrophe magique, Zyra est la colère de la nature incarnée : mélange de plante et d'humain, faisant émerger de nouvelles pousses à chaque pas. Elle considère les nombreux mortels de Valoran comme de simples proies pour sa...
+

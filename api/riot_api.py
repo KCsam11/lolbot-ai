@@ -99,4 +99,3 @@ if __name__ == "__main__":
     else:
         tqdm.write("Échec de la récupération des données des items.")
 
-    

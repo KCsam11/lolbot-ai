@@ -1,0 +1,1870 @@
+Name: Jarvan IV
+Title: Exemple demacien
+Passive: Cadence martiale
+Spells:
+  - Frappe du dragon
+  - Égide dorée
+  - Étendard demacien
+  - Cataclysme
+
+---
+
+Name: Aurelion Sol
+Title: Forgeur d'étoiles
+Passive: Créateur cosmique
+Spells:
+  - Souffle de lumière
+  - Vol astral
+  - Trou noir
+  - Étoile finale/Apocalypse
+
+---
+
+Name: Hwei
+Title: Visionnaire
+Passive: Signature du Visionnaire
+Spells:
+  - Sujet : Désastres
+  - Sujet : Sérénités
+  - Sujet : Tourments
+  - Vision de désespoir
+
+---
+
+Name: Riven
+Title: Exilée brisée
+Passive: Lame runique
+Spells:
+  - Ailes brisées
+  - Décharge de ki
+  - Bravoure
+  - Lame de l'exilée
+
+---
+
+Name: Shyvana
+Title: Demi-dragon
+Passive: Fureur d'enfant de dragon
+Spells:
+  - Morsure double
+  - Combustion
+  - Souffle de flammes
+  - Vol du dragon
+
+---
+
+Name: Yuumi
+Title: Gardienne du Grimoire
+Passive: Chat-maraderie
+Spells:
+  - Tête chat-sseuse
+  - Félin pour l'autre !
+  - Zouuu !
+  - Chat-pitre final
+
+---
+
+Name: Kog'Maw
+Title: Gueule des abysses
+Passive: Surprise d'Icathia
+Spells:
+  - Bave caustique
+  - Barrage bio-arcanique
+  - Limon du Néant
+  - Artillerie vivante
+
+---
+
+Name: Vel'Koz
+Title: Œil du Néant
+Passive: Décomposition organique
+Spells:
+  - Fission du plasma
+  - Ouverture de faille
+  - Dislocation tectonique
+  - Désintégrateur de formes de vie
+
+---
+
+Name: Ekko
+Title: Fractureur du temps
+Passive: RéZonance
+Spells:
+  - Rétrobang
+  - Convergence parallèle
+  - Rush déphasé
+  - Chronofracture
+
+---
+
+Name: K'Santé
+Title: Fierté de Nazumah
+Passive: Instinct intrépide
+Spells:
+  - Coups de ntofo
+  - Pour Nazumah !
+  - Jeu de jambes
+  - Grand jeu
+
+---
+
+Name: Hecarim
+Title: Ombre de la guerre
+Passive: Galop
+Spells:
+  - Carnage
+  - Essence de la peur
+  - Charge dévastatrice
+  - Légion des ombres
+
+---
+
+Name: Malphite
+Title: Éclat du monolithe
+Passive: Bouclier de granit
+Spells:
+  - Éclat sismique
+  - Coup de tonnerre
+  - Choc au sol
+  - Force indomptable
+
+---
+
+Name: Kalista
+Title: Lance de la vengeance
+Passive: Maintien martial
+Spells:
+  - Perforation
+  - Sentinelle
+  - Extirpation
+  - Appel du destin
+
+---
+
+Name: Zac
+Title: Arme secrète
+Passive: Division cellulaire
+Spells:
+  - Étirements
+  - Matière instable
+  - Fronde
+  - Boing !
+
+---
+
+Name: Nocturne
+Title: Éternel cauchemar
+Passive: Lames d'ombre
+Spells:
+  - Crépuscule
+  - Linceul des ténèbres
+  - Horreur indicible
+  - Paranoïa
+
+---
+
+Name: Janna
+Title: Avatar de l'air
+Passive: Zéphyr
+Spells:
+  - Vent hurlant
+  - Alizé
+  - Œil du cyclone
+  - Mousson
+
+---
+
+Name: Darius
+Title: Main de Noxus
+Passive: Plaie béante
+Spells:
+  - Décimation
+  - Estropiaison
+  - Crampon
+  - Guillotine noxienne
+
+---
+
+Name: Vladimir
+Title: Saigneur pourpre
+Passive: Pacte de sang
+Spells:
+  - Transfusion
+  - Bain de sang
+  - Vagues de sang
+  - Peste sanguine
+
+---
+
+Name: Pyke
+Title: Éventreur des abysses
+Passive: Don des noyés
+Spells:
+  - Harponnage
+  - Plongée spectrale
+  - Ressac fantôme
+  - Exécution abyssale
+
+---
+
+Name: Brand
+Title: Vengeur flamboyant
+Passive: Flammes
+Spells:
+  - Brûlure
+  - Colonne de flammes
+  - Conflagration
+  - Pyrolyse
+
+---
+
+Name: Urgot
+Title: Broyeur
+Passive: Flammes purificatrices
+Spells:
+  - Torpille corrosive
+  - Géhenne
+  - Mépris
+  - Règne de la terreur
+
+---
+
+Name: Ahri
+Title: Renard à neuf queues
+Passive: Vol essentiel
+Spells:
+  - Orbe d'illusion
+  - Lucioles
+  - Charme
+  - Assaut spirituel
+
+---
+
+Name: Skarner
+Title: Souverain originel
+Passive: Échos des vibrations
+Spells:
+  - Terre brisée/Soulèvement
+  - Bastion sismique
+  - Impact d'Ixtal
+  - Empalement
+
+---
+
+Name: LeBlanc
+Title: Manipulatrice
+Passive: Image miroir
+Spells:
+  - Sceau de malveillance
+  - Distorsion
+  - Chaînes éthérées
+  - Imitation
+
+---
+
+Name: Jinx
+Title: Gâchette folle
+Passive: Enthousiasme !
+Spells:
+  - Flip flap !
+  - Zap !
+  - Pyromâcheurs !
+  - Super roquette de la mort !
+
+---
+
+Name: Leona
+Title: Aube radieuse
+Passive: Rayon de soleil
+Spells:
+  - Bouclier de l'aube
+  - Éclipse
+  - Lame du zénith
+  - Éruption solaire
+
+---
+
+Name: Swain
+Title: Grand général noxien
+Passive: Nuée de corbeaux
+Spells:
+  - Poigne mortifère
+  - Œil de l'empire
+  - Capture
+  - Incarnation démoniaque
+
+---
+
+Name: Shen
+Title: Œil du crépuscule
+Passive: Barrière de ki
+Spells:
+  - Assaut crépusculaire
+  - Refuge spirituel
+  - Rush des ombres
+  - Soutien indéfectible
+
+---
+
+Name: Trundle
+Title: Roi des trolls
+Passive: Tribut du roi
+Spells:
+  - Morsure
+  - Royaume gelé
+  - Montagne de glace
+  - Soumission
+
+---
+
+Name: Zeri
+Title: Étincelle de Zaun
+Passive: Batterie vivante
+Spells:
+  - Rafale
+  - Laser électrocuteur
+  - Charge ionique
+  - Éruption électrique
+
+---
+
+Name: Karma
+Title: Sagesse incarnée
+Passive: Concentration ardente
+Spells:
+  - Flamme intérieure
+  - Volonté concentrée
+  - Exaltation
+  - Mantra
+
+---
+
+Name: Camille
+Title: Ombre d'acier
+Passive: Protection modulable
+Spells:
+  - Protocole de précision
+  - Balayage tactique
+  - Grappin
+  - Ultimatum Hextech
+
+---
+
+Name: Soraka
+Title: Enfant des étoiles
+Passive: Salut
+Spells:
+  - Appel de l'étoile
+  - Infusion astrale
+  - Équinoxe
+  - Souhait
+
+---
+
+Name: Lucian
+Title: Purificateur
+Passive: Pistolero
+Spells:
+  - Lumière perforante
+  - Flamboiement
+  - Poursuite inlassable
+  - Déluge de balles
+
+---
+
+Name: Amumu
+Title: Momie mélancolique
+Passive: Toucher maudit
+Spells:
+  - Jet de bandelette
+  - Désespoir
+  - Colère
+  - Malédiction d'Amumu
+
+---
+
+Name: Kayle
+Title: Vertueuse
+Passive: Ascension divine
+Spells:
+  - Incandescence
+  - Bénédiction céleste
+  - Lame de feu stellaire
+  - Jugement divin
+
+---
+
+Name: Briar
+Title: Faim insatiable
+Passive: Malédiction écarlate
+Spells:
+  - À table !
+  - Folie sanguinaire / Juste un croc
+  - Cri sanglant
+  - Vol mortel
+
+---
+
+Name: Draven
+Title: Glorieux exécuteur
+Passive: League of Draven
+Spells:
+  - Hache tournoyante
+  - Pulsion sanguinaire
+  - Division
+  - Volée mortelle
+
+---
+
+Name: Viego
+Title: Roi déchu
+Passive: Assujettissement
+Spells:
+  - Lame du roi déchu
+  - Gueule spectrale
+  - Chemin tourmenté
+  - Cœur brisé
+
+---
+
+Name: Jhin
+Title: Virtuose
+Passive: Murmure
+Spells:
+  - Grenade dansante
+  - Floraison mortelle
+  - Public captif
+  - Rappel de rideau
+
+---
+
+Name: Wukong
+Title: Roi des singes
+Passive: Peau de pierre
+Spells:
+  - Écrasement
+  - Guerrier espiègle
+  - Nimbus
+  - Cyclone
+
+---
+
+Name: Renata Glasc
+Title: Baronne de la chimie
+Passive: Pression
+Spells:
+  - Poignée de main
+  - Patronage
+  - Programme de fidélité
+  - Prise de contrôle hostile
+
+---
+
+Name: Sivir
+Title: Vierge martiale
+Passive: Mille-pattes
+Spells:
+  - Lame boomerang
+  - Ricochet
+  - Bouclier magique
+  - En chasse
+
+---
+
+Name: Zed
+Title: Maître des ombres
+Passive: Mépris des faibles
+Spells:
+  - Shuriken-rasoir
+  - Ombre vivante
+  - Taillade des ombres
+  - Marque de la mort
+
+---
+
+Name: Cho'Gath
+Title: Terreur noire
+Passive: Carnivore
+Spells:
+  - Rupture
+  - Cri sauvage
+  - Piques vorpales
+  - Festin
+
+---
+
+Name: Blitzcrank
+Title: Golem de vapeur
+Passive: Barrière de mana
+Spells:
+  - Grappin propulsé
+  - Surcharge
+  - Poing d'acier
+  - Champ de stase
+
+---
+
+Name: Ezreal
+Title: Explorateur prodigue
+Passive: Force grandissante
+Spells:
+  - Tir mystique
+  - Flux essentiel
+  - Transfert arcanique
+  - Arc térébrant
+
+---
+
+Name: Lux
+Title: Dame de lumière
+Passive: Illumination
+Spells:
+  - Entrave de lumière
+  - Barrière prismatique
+  - Anomalie radieuse
+  - Éclat final
+
+---
+
+Name: Kha'Zix
+Title: Faucheur du Néant
+Passive: Menace invisible
+Spells:
+  - Goût de la peur
+  - Pique du Néant
+  - Bond
+  - Assaut du Néant
+
+---
+
+Name: Udyr
+Title: Gardien des esprits
+Passive: Canalisation des esprits
+Spells:
+  - Griffe sauvage
+  - Cape de fer
+  - Piétinement flamboyant
+  - Tempête spirituelle
+
+---
+
+Name: Volibear
+Title: Tempête impitoyable
+Passive: Tempête impitoyable
+Spells:
+  - Coup fulgurant
+  - Folie mutilatrice
+  - Foudroiement
+  - Tempête incarnée
+
+---
+
+Name: Nasus
+Title: Gardien des sables
+Passive: Mangeur d'âmes
+Spells:
+  - Buveuse d'âmes
+  - Flétrissement
+  - Esprit enflammé
+  - Fureur des sables
+
+---
+
+Name: Nami
+Title: Aquamancienne
+Passive: Déferlantes
+Spells:
+  - Prison aqueuse
+  - Flux et reflux
+  - Bénédiction de l'Aquamancienne
+  - Raz-de-marée
+
+---
+
+Name: Diana
+Title: Mépris de la lune
+Passive: Lame sélène
+Spells:
+  - Croissant lunaire
+  - Corps célestes
+  - Rush lunaire
+  - Attraction lunaire
+
+---
+
+Name: Singed
+Title: Chimiste fou
+Passive: Sillage toxique
+Spells:
+  - Piste empoisonnée
+  - Attrape-mouche
+  - Projection
+  - Potion de démence
+
+---
+
+Name: Kassadin
+Title: Chasseur du Néant
+Passive: Pierre du Néant
+Spells:
+  - Orbe du Néant
+  - Lame éthérée
+  - Pulsation
+  - Fissure
+
+---
+
+Name: Caitlyn
+Title: Shérif de Piltover
+Passive: Tir dans la tête
+Spells:
+  - Pacificateur de Piltover
+  - Piège-yordle
+  - Filet de calibre 90
+  - Tir chirurgical
+
+---
+
+Name: Yone
+Title: Inoublié
+Passive: Voie du chasseur
+Spells:
+  - Acier mortel
+  - Fendoir spirituel
+  - Libération spirituelle
+  - Destin scellé
+
+---
+
+Name: Annie
+Title: Enfant des ténèbres
+Passive: Pyromanie
+Spells:
+  - Désintégration
+  - Incinération
+  - Bouclier en fusion
+  - Invocation : Tibbers
+
+---
+
+Name: Tahm Kench
+Title: Roi des rivières
+Passive: Goût acquis
+Spells:
+  - Coup de langue
+  - Plongée abyssale
+  - Peau épaisse
+  - Dévoration
+
+---
+
+Name: Syndra
+Title: Souveraine obscure
+Passive: Transcendance
+Spells:
+  - Sphère noire
+  - Force de la volonté
+  - Dispersion des faibles
+  - Déchaînement de puissance
+
+---
+
+Name: Poppy
+Title: Gardienne du marteau
+Passive: Ambassadrice de fer
+Spells:
+  - Commotion
+  - Présence immuable
+  - Charge héroïque
+  - Verdict de la gardienne
+
+---
+
+Name: Garen
+Title: Force de Demacia
+Passive: Persévérance
+Spells:
+  - Coup décisif
+  - Courage
+  - Jugement
+  - Justice de Demacia
+
+---
+
+Name: Xin Zhao
+Title: Sénéchal de Demacia
+Passive: Détermination
+Spells:
+  - Frappe des trois serres
+  - Vent et foudre
+  - Charge audacieuse
+  - Garde circulaire
+
+---
+
+Name: Naafiri
+Title: la meute de fer
+Passive: La meute s'agrandit
+Spells:
+  - Dagues des Darkin
+  - Appel de la meute
+  - Éviscération
+  - Hallali
+
+---
+
+Name: Twitch
+Title: Semeur de peste
+Passive: Venin mortel
+Spells:
+  - Embuscade
+  - Dose de venin
+  - Contamination
+  - Panique
+
+---
+
+Name: Alistar
+Title: Minotaure
+Passive: Cri triomphant
+Spells:
+  - Atomisation
+  - Coup de tête
+  - Piétinement
+  - Volonté de fer
+
+---
+
+Name: Ambessa
+Title: Matriarche de guerre
+Passive: Ruée des chiens-dragons
+Spells:
+  - Frappe fourbe / Frappe fracassante
+  - Égide dévastatrice
+  - Lacération
+  - Exécution publique
+
+---
+
+Name: Anivia
+Title: Cryophénix
+Passive: Renaissance
+Spells:
+  - Lance de glace
+  - Cristallisation
+  - Gelure
+  - Tempête glaciale
+
+---
+
+Name: Sion
+Title: Colosse mort-vivant
+Passive: Gloire posthume
+Spells:
+  - Fracas meurtrier
+  - Feu intérieur
+  - Cri du tueur
+  - Assaut inarrêtable
+
+---
+
+Name: Séraphine
+Title: Chanteuse rêveuse
+Passive: Présence sur scène
+Spells:
+  - Note aiguë
+  - Son ambiophonique
+  - Battement
+  - Bis
+
+---
+
+Name: Maître Yi
+Title: Fine lame Wuju
+Passive: Coup double
+Spells:
+  - Assaut éclair
+  - Méditation
+  - Style Wuju
+  - Highlander
+
+---
+
+Name: Mel
+Title: Reflet de l'âme
+Passive: Luminescence incandescente
+Spells:
+  - Salve radieuse
+  - Réfutation
+  - Piège solaire
+  - Éclipse dorée
+
+---
+
+Name: Graves
+Title: Hors-la-loi
+Passive: Nouvelle destinée
+Spells:
+  - Terminus
+  - Écran de fumée
+  - Ruée vers l'or
+  - Dégâts collatéraux
+
+---
+
+Name: Yasuo
+Title: Disgracié
+Passive: Voie du vagabond
+Spells:
+  - Tempête d'acier
+  - Mur de vent
+  - Cercle tranchant
+  - Dernier soupir
+
+---
+
+Name: Kayn
+Title: Faucheur de l'ombre
+Passive: Faux des Darkin
+Spells:
+  - Moisson cruelle
+  - Entaille sombre
+  - Passe-muraille
+  - Intrusion obscure
+
+---
+
+Name: Akali
+Title: Assassin rebelle
+Passive: Marque d'assassin
+Spells:
+  - Vague de kunais
+  - Linceul nébuleux
+  - Lancer acrobatique
+  - Maîtrise absolue
+
+---
+
+Name: Neeko
+Title: Caméléon curieux
+Passive: Mirage inné
+Spells:
+  - Explosion florale
+  - Métaclonage
+  - Spirale épineuse
+  - Floraison renversante
+
+---
+
+Name: Kindred
+Title: Chasseurs éternels
+Passive: Marque de Kindred
+Spells:
+  - Danse des flèches
+  - Frénésie de Loup
+  - Terreur mortelle
+  - Repos d'Agneau
+
+---
+
+Name: Akshan
+Title: Sentinelle rebelle
+Passive: Fourberie
+Spells:
+  - Vengerang
+  - Cavalier seul
+  - Envolée héroïque
+  - Bien mérité !
+
+---
+
+Name: Elise
+Title: Reine araignée
+Passive: Reine araignée
+Spells:
+  - Neurotoxine/Morsure venimeuse
+  - Araignée explosive/Frénésie symbiotique
+  - Cocon/Suspension
+  - Forme arachnéenne
+
+---
+
+Name: Sylas
+Title: Révolutionnaire déchaîné
+Passive: Volée de pétricite
+Spells:
+  - Croix du forçat
+  - Régicide
+  - Évasion / Enlèvement
+  - Détournement
+
+---
+
+Name: Karthus
+Title: Liche
+Passive: Déni de mort
+Spells:
+  - Dévastation
+  - Mur de douleur
+  - Souillure
+  - Requiem
+
+---
+
+Name: Sejuani
+Title: Fureur du nord
+Passive: Fureur du nord
+Spells:
+  - Assaut arctique
+  - Colère de l'hiver
+  - Permafrost
+  - Prison de glace
+
+---
+
+Name: Sett
+Title: Patron
+Passive: Roi de l'arène
+Spells:
+  - Rogne
+  - Coup cathartique
+  - Casse-tête
+  - Le Clou du spectacle
+
+---
+
+Name: Warwick
+Title: Fureur déchaînée de Zaun
+Passive: Soif inextinguible
+Spells:
+  - Dents de la bête
+  - Traque sanguinaire
+  - Hurlement bestial
+  - Contrainte infinie
+
+---
+
+Name: Heimerdinger
+Title: Inventeur réputé
+Passive: Affinité Hextech
+Spells:
+  - Tourelle H-28G Évolution
+  - Micro-roquettes Hextech
+  - Grenade électro-tempête CH-2
+  - AMÉLIORATION !
+
+---
+
+Name: Sona
+Title: Virtuose de la harpe
+Passive: Accord de puissance
+Spells:
+  - Hymne à la bravoure
+  - Aria de persévérance
+  - Mélodie de vélocité
+  - Crescendo
+
+---
+
+Name: Twisted Fate
+Title: Maître des cartes
+Passive: Dé pipé
+Spells:
+  - Atouts
+  - Bonne pioche
+  - Paquet
+  - Destinée
+
+---
+
+Name: Rek'Sai
+Title: Traqueuse du Néant
+Passive: Fureur des Xer'Sai
+Spells:
+  - Courroux de la reine/Sondeur explosif
+  - Enfouissement/Jaillissement
+  - Morsure féroce/Tunnel
+  - Rush du Néant
+
+---
+
+Name: Senna
+Title: Rédemptrice
+Passive: Absolution
+Spells:
+  - Ombre perforante
+  - Dernière étreinte
+  - Malédiction de la Brume noire
+  - Ténèbres aveuglantes
+
+---
+
+Name: Shaco
+Title: Bouffon des ténèbres
+Passive: Traîtrise
+Spells:
+  - Tromperie
+  - Boîte surprise
+  - Poison double
+  - Hallucination
+
+---
+
+Name: Jayce
+Title: Protecteur du futur
+Passive: Capaciteur Hextech
+Spells:
+  - Direction le ciel ! / Orbe électrique
+  - Champ électrique / Hypercharge
+  - Coup foudroyant / Portail d'accélération
+  - Canon Mercury / Marteau Mercury
+
+---
+
+Name: Ornn
+Title: Dieu de la forge volcanique
+Passive: Forgeron ambulant
+Spells:
+  - Fracture magmatique
+  - Fournaise
+  - Ruée ardente
+  - Appel du dieu de la forge
+
+---
+
+Name: Kennen
+Title: Cœur de la tempête
+Passive: Marque de tempête
+Spells:
+  - Shuriken foudroyant
+  - Surtension
+  - Rush foudroyant
+  - Maelström
+
+---
+
+Name: Varus
+Title: Flèche de la vengeance
+Passive: Vengeance incarnée
+Spells:
+  - Flèche perforante
+  - Carquois meurtri
+  - Pluie de flèches
+  - Chaîne corruptrice
+
+---
+
+Name: Nautilus
+Title: Titan des profondeurs
+Passive: Coup écrasant
+Spells:
+  - Abordage
+  - Colère du titan
+  - Répliques
+  - Grenade ASM
+
+---
+
+Name: Rumble
+Title: Menace mécanisée
+Passive: Titan de bric-à-brac
+Spells:
+  - Lance-flammes
+  - Bouclier recyclé
+  - Harpon électrique
+  - Éradication
+
+---
+
+Name: Mordekaiser
+Title: Revenant de fer
+Passive: Vortex de ténèbres
+Spells:
+  - Oblitération
+  - Indestructible
+  - Emprise funeste
+  - Royaume des morts
+
+---
+
+Name: Lee Sin
+Title: Moine aveugle
+Passive: Rafale
+Spells:
+  - Onde sonore/Coup résonant
+  - Rempart/Force d'âme
+  - Trombe/Fracture
+  - Rage du dragon
+
+---
+
+Name: Aurora
+Title: Sorcière d'entre les mondes
+Passive: Abjuration spirituelle
+Spells:
+  - Maléfice
+  - Derrière le voile
+  - Sortilège
+  - Entre les mondes
+
+---
+
+Name: Veigar
+Title: Seigneur des maléfices
+Passive: Pouvoir maléfique phénoménal
+Spells:
+  - Coup malin
+  - Matière noire
+  - Profanation
+  - Explosion primordiale
+
+---
+
+Name: Tryndamere
+Title: Roi barbare
+Passive: Vague de violence
+Spells:
+  - Soif de sang
+  - Moquerie
+  - Balafre
+  - Rage inépuisable
+
+---
+
+Name: Ivern
+Title: Aîné de la forêt
+Passive: Ami de la forêt
+Spells:
+  - Enracinement
+  - Main verte
+  - Graine à retardement
+  - Marguerite !
+
+---
+
+Name: Xerath
+Title: Mage suprême
+Passive: Afflux de mana
+Spells:
+  - Rayon arcanique
+  - Œil de la destruction
+  - Orbe d'électrocution
+  - Rite arcanique
+
+---
+
+Name: Thresh
+Title: Garde aux chaînes
+Passive: Damnation
+Spells:
+  - Peine capitale
+  - Lien des ténèbres
+  - Fauchage
+  - La cage
+
+---
+
+Name: Talon
+Title: Lame des ténèbres
+Passive: Saignée fatale
+Spells:
+  - Diplomatie noxienne
+  - Ratissage
+  - Voie de l'assassin
+  - Assaut ténébreux
+
+---
+
+Name: Ryze
+Title: Mage runique
+Passive: Maîtrise des arcanes
+Spells:
+  - Court-circuit
+  - Prison runique
+  - Flux envoûtant
+  - Portail transdimensionnel
+
+---
+
+Name: Viktor
+Title: Héraut de l'arcane
+Passive: Glorieuse évolution
+Spells:
+  - Siphonnage
+  - Champ gravitationnel
+  - Rayon Hextech
+  - Tempête arcanique
+
+---
+
+Name: Fiora
+Title: Sublime bretteuse
+Passive: Danse de la duelliste
+Spells:
+  - Fente
+  - Riposte
+  - Botte secrète
+  - Défi suprême
+
+---
+
+Name: Azir
+Title: Empereur des sables
+Passive: Héritage de Shurima
+Spells:
+  - Sables conquérants
+  - Dresse-toi !
+  - Sables mouvants
+  - Partition impériale
+
+---
+
+Name: Zoé
+Title: Manifestation du Crépuscule
+Passive: Plus d'étincelles !
+Spells:
+  - Astro-pong !
+  - Voleuse de sorts
+  - Bulle soporifique
+  - Bond dimensionnel
+
+---
+
+Name: Jax
+Title: Maître d'armes
+Passive: Acharnement
+Spells:
+  - Frappe bondissante
+  - Élargissement
+  - Contre-attaque
+  - Maître d'armes
+
+---
+
+Name: Rengar
+Title: Fier traqueur
+Passive: Prédateur invisible
+Spells:
+  - Esprit sauvage
+  - Rugissement
+  - Bolas
+  - Chasseur-né
+
+---
+
+Name: Taliyah
+Title: Tisseuse de pierres
+Passive: Surf tellurique
+Spells:
+  - Rafale filée
+  - Poussée sismique
+  - Défilage tellurique
+  - Mur de la tisseuse
+
+---
+
+Name: Vayne
+Title: Chasseresse nocturne
+Passive: Chasseresse nocturne
+Spells:
+  - Roulade
+  - Carreaux d'argent
+  - Condamnation
+  - Combat ultime
+
+---
+
+Name: Yorick
+Title: Berger des âmes
+Passive: Berger des âmes
+Spells:
+  - Derniers sacrements
+  - Sombre cortège
+  - Brume endeuillée
+  - Élégie des Îles
+
+---
+
+Name: Bard
+Title: Gardien errant
+Passive: Instinct du voyageur
+Spells:
+  - Lien cosmique
+  - Don du gardien
+  - Route magique
+  - Destin tempéré
+
+---
+
+Name: Braum
+Title: Cœur de Freljord
+Passive: Coups étourdissants
+Spells:
+  - Morsure de l'hiver
+  - Bouclier humain
+  - Incassable
+  - Fissure glaciale
+
+---
+
+Name: Nunu et Willump
+Title: Le Garçon et son yéti
+Passive: Appel de Freljord
+Spells:
+  - Voracité
+  - Boule de neige géante !
+  - Rafale de boules de neige
+  - Zéro absolu
+
+---
+
+Name: Gangplank
+Title: Fléau des mers
+Passive: Épreuve du feu
+Spells:
+  - Pourparlers
+  - Guérison du scorbut
+  - Baril de poudre
+  - Tir de barrage
+
+---
+
+Name: Tristana
+Title: Canonnière yordle
+Passive: Tir de précision
+Spells:
+  - Tir rapide
+  - Saut roquette
+  - Charge explosive
+  - Tir à impact
+
+---
+
+Name: Corki
+Title: Artilleur téméraire
+Passive: Munitions Hextech
+Spells:
+  - Bombe au phosphore
+  - Valkyrie
+  - Gatling
+  - Barrage de projectiles
+
+---
+
+Name: Malzahar
+Title: Prophète du Néant
+Passive: Plan du Néant
+Spells:
+  - Appel du Néant
+  - Nuée du Néant
+  - Visions maléfiques
+  - Poigne du Néant
+
+---
+
+Name: Gragas
+Title: Agitateur
+Passive: Tournée
+Spells:
+  - Fût roulant
+  - Rage d'ivrogne
+  - Coup de bidon
+  - Fût explosif
+
+---
+
+Name: Teemo
+Title: Éclaireur de Bandle
+Passive: Guérilla
+Spells:
+  - Fléchette aveuglante
+  - Vélocité
+  - Tir toxique
+  - Piège nocif
+
+---
+
+Name: Lissandra
+Title: Sorcière de glace
+Passive: Emprise de la Sublimée
+Spells:
+  - Éclat de glace
+  - Cercle de givre
+  - Chemin glacial
+  - Tombeau polaire
+
+---
+
+Name: Fizz
+Title: Filou des mers
+Passive: Combattant agile
+Spells:
+  - Frappe de l'oursin
+  - Trident marin
+  - Joueur/Filou
+  - Pêche au gros
+
+---
+
+Name: Morgana
+Title: Déchue
+Passive: Siphon d'âme
+Spells:
+  - Entrave sombre
+  - Tourment ténébreux
+  - Bouclier noir
+  - Chaînes spirituelles
+
+---
+
+Name: Evelynn
+Title: Démon sadique
+Passive: Ombre démoniaque
+Spells:
+  - Piques de haine
+  - Séduction
+  - Coup de fouet
+  - Faiseuse de veuves
+
+---
+
+Name: Aphelios
+Title: Arme des Lunaris
+Passive: Le Tueur et l'Oracle
+Spells:
+  - Compétences d'arme
+  - Phase
+  - Système de file d'armes
+  - Veille au clair de lune
+
+---
+
+Name: Gnar
+Title: Chaînon manquant
+Passive: Rage génique
+Spells:
+  - Jet de boomerang/Jet de rocher
+  - Agitation/Beigne
+  - Rebond/Aplatissement
+  - GNAR !
+
+---
+
+Name: Ziggs
+Title: Expert des Hexplosifs
+Passive: Mèche courte
+Spells:
+  - Bombe rebondissante
+  - Charge explosive
+  - Mines Hexplosives
+  - Méga bombe infernale
+
+---
+
+Name: Vi
+Title: Cogne de Piltover
+Passive: Bouclier antichoc
+Spells:
+  - Brise-coffre
+  - Coups fracassants
+  - Force implacable
+  - Mise en demeure
+
+---
+
+Name: Irelia
+Title: Danseuse des lames
+Passive: Ferveur ionienne
+Spells:
+  - Rush fatal
+  - Danse de défi
+  - Duo parfait
+  - Pointe de l'avant-garde
+
+---
+
+Name: Milio
+Title: Douce flamme
+Passive: Tout feu tout flamme
+Spells:
+  - Ultra méga boule de feu
+  - Feu de camp
+  - Chaud devant !
+  - Flammes vitales
+
+---
+
+Name: Ashe
+Title: Archère de givre
+Passive: Tir givrant
+Spells:
+  - Concentration du ranger
+  - Salve
+  - Rapace
+  - Flèche de cristal enchantée
+
+---
+
+Name: Nidalee
+Title: Chasseresse bestiale
+Passive: Prédateur
+Spells:
+  - Javelot / Mise à terre
+  - Guérilla / Bond
+  - Charge primale / Taillade
+  - Aspect du Couguar
+
+---
+
+Name: Dr. Mundo
+Title: Dément de Zaun
+Passive: Il va où il veut
+Spells:
+  - Scie souillée
+  - Défibrillateur
+  - Contusion
+  - Dosage maximal
+
+---
+
+Name: Zilean
+Title: Gardien du Temps
+Passive: Temps dans une bouteille
+Spells:
+  - Bombe à retardement
+  - Retour rapide
+  - Distorsion temporelle
+  - Retour temporel
+
+---
+
+Name: Qiyana
+Title: Impératrice des éléments
+Passive: Privilège royal
+Spells:
+  - Courroux élémentaire/Lame d'Ixtal
+  - Terraforce
+  - Audace
+  - Tour de force suprême
+
+---
+
+Name: Samira
+Title: Rose du désert
+Passive: Élan téméraire
+Spells:
+  - Panache
+  - Tourbillon de lame
+  - Charge sauvage
+  - Gâchette infernale
+
+---
+
+Name: Gwen
+Title: Couturière sacrée
+Passive: Mille coupures
+Spells:
+  - Tchac, tchac !
+  - Brume sacrée
+  - Élan incisif
+  - Piqûre
+
+---
+
+Name: Lulu
+Title: Sorcière féérique
+Passive: Pix, le Compagnon féérique
+Spells:
+  - Duo éclatant
+  - Fantaisie
+  - Pix à la rescousse !
+  - Croissance prodigieuse
+
+---
+
+Name: Katarina
+Title: Lame sinistre
+Passive: Voracité
+Spells:
+  - Lame rebondissante
+  - Préparation
+  - Shunpo
+  - Lotus mortel
+
+---
+
+Name: Illaoi
+Title: Prêtresse du kraken
+Passive: Prophétesse d'un dieu ancestral
+Spells:
+  - Coup de tentacule
+  - Âpre leçon
+  - Épreuve de l'esprit
+  - Acte de foi
+
+---
+
+Name: Rell
+Title: Vierge de fer
+Passive: Mise en pièces
+Spells:
+  - Frappe dislocatrice
+  - Ferromancie : Descendre en piqué
+  - Joute endiablée
+  - Tempête magnétique
+
+---
+
+Name: Aatrox
+Title: Épée des Darkin
+Passive: Posture du massacreur
+Spells:
+  - Épée des Darkin
+  - Chaînes infernales
+  - Ruée obscure
+  - Fossoyeur des mondes
+
+---
+
+Name: Lillia
+Title: Fleur timide
+Passive: Bâton chargé de rêves
+Spells:
+  - Frappe fleurie
+  - Attention, désolée !
+  - Graine tournoyante
+  - Douce berceuse
+
+---
+
+Name: Zyra
+Title: Dame aux ronces
+Passive: Jardin de ronces
+Spells:
+  - Épines funestes
+  - Croissance incontrôlée
+  - Racines fixatrices
+  - Ronces étrangleuses
+
+---
+
+Name: Nilah
+Title: Joie incarnée
+Passive: Joie éternelle
+Spells:
+  - Lame fluide
+  - Voile de liesse
+  - Torrent
+  - Apothéose
+
+---
+
+Name: Kled
+Title: Cavalier colérique
+Passive: Skaarl, le Lézard froussard
+Spells:
+  - Piège à ours en laisse
+  - Penchant pour la violence
+  - Joute
+  - Chaaaaaaaargez !!!
+
+---
+
+Name: Renekton
+Title: Dévoreur des sables
+Passive: Règne de la colère
+Spells:
+  - Destruction des faibles
+  - Prédateur impitoyable
+  - Tranche et coupe
+  - Dominus
+
+---
+
+Name: Pantheon
+Title: Lance éternelle
+Passive: Ardeur mortelle
+Spells:
+  - Lance astrale
+  - Assaut martial
+  - Égide impénétrable
+  - Météore
+
+---
+
+Name: Bel'Veth
+Title: Impératrice du Néant
+Passive: Mer de lavande 
+Spells:
+  - Charge du Néant
+  - Projection cinglante
+  - Maelström impérial
+  - Banquet infini
+
+---
+
+Name: Fiddlesticks
+Title: Effroi nocturne
+Passive: Épouvantable épouvantail
+Spells:
+  - Terreur
+  - Moisson fructueuse
+  - Fauchaison
+  - Rafale de corbeaux
+
+---
+
+Name: Olaf
+Title: Berzerker
+Passive: Rage du berzerker
+Spells:
+  - Déchireuse
+  - Force décuplée
+  - Frappe sauvage
+  - Ragnarok
+
+---
+
+Name: Rakan
+Title: Charmeur
+Passive: Plumes enchantées
+Spells:
+  - Rémige rayonnante
+  - Entrée triomphale
+  - Valse guerrière
+  - Danse ultime
+
+---
+
+Name: Smolder
+Title: Dragonnet flamboyant
+Passive: Dragon en herbe
+Spells:
+  - Boule de feu draconique
+  - Atchoum !
+  - Flap, flap, flap !
+  - MAMAAAN !
+
+---
+
+Name: Quinn
+Title: Ailes de Demacia
+Passive: Busard
+Spells:
+  - Assaut aveuglant
+  - Œil d'aigle
+  - Salto
+  - En territoire ennemi
+
+---
+
+Name: Orianna
+Title: Demoiselle mécanique
+Passive: Remontoir
+Spells:
+  - Ordre : Attaque
+  - Ordre : Dissonance
+  - Ordre : Protection
+  - Ordre : Onde de choc
+
+---
+
+Name: Maokai
+Title: Tréant torturé
+Passive: Sève magique
+Spells:
+  - Coup de ronces
+  - Croissance torturée
+  - Jet d'arbrisseau
+  - Emprise de la nature
+
+---
+
+Name: Xayah
+Title: Rebelle
+Passive: Plumes perçantes
+Spells:
+  - Dagues jumelles
+  - Plumage mortel
+  - Appel des lames
+  - Rafale de plumes
+
+---
+
+Name: Rammus
+Title: Tatou blindé
+Passive: Carapace cloutée
+Spells:
+  - Démolisseur
+  - Boule défensive
+  - Provocation frénétique
+  - Frappe ascendante
+
+---
+
+Name: Galio
+Title: Colosse
+Passive: Frappe colossale
+Spells:
+  - Vents de guerre
+  - Bouclier de Durand
+  - Horion de la justice
+  - Entrée héroïque
+
+---
+
+Name: Miss Fortune
+Title: Chasseuse de primes
+Passive: Cœur volage
+Spells:
+  - Doublé
+  - Fanfaronne
+  - Pluie de balles
+  - Barrage de plomb
+
+---
+
+Name: Vex
+Title: Ombre du désespoir
+Passive: Malheur et Désespoir
+Spells:
+  - Mistral perdant
+  - Lâchez-moi !
+  - Ténèbres imminentes
+  - Déferlement d'Ombre
+
+---
+
+Name: Kai'Sa
+Title: Fille du Néant
+Passive: Seconde peau
+Spells:
+  - Pluie d'Icathia
+  - Rayon du Néant
+  - Surpresseur
+  - Instinct meurtrier
+
+---
+
+Name: Taric
+Title: Bouclier de Valoran
+Passive: Plastronneur
+Spells:
+  - Bénédiction stellaire
+  - Bastion
+  - Éblouissement
+  - Lumière cosmique
+
+---
+
+Name: Cassiopeia
+Title: Étreinte du serpent
+Passive: Grâce serpentine
+Spells:
+  - Bombe nocive
+  - Miasmes
+  - Morsure fatale
+  - Regard de la Méduse
+
+---
+
